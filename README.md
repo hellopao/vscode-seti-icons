@@ -1,6 +1,6 @@
 # seti-icons
 
-Icons for VS Code
+Icons for VS Code (version 1.5.0+)
 
 ## usage 
 

@@ -69,13 +69,13 @@ specialFiles.forEach(file => {
 });
 
 const targetFileContent = tplFile
-    .replace("__lang_file_icon_def_placeholder", JSON.stringify(langIconDefMap).replace(/^{/, "").replace(/}$/, ""))
-    .replace("__lang_file_icon_ref_placeholder", JSON.stringify(langIconRefMap).replace(/^{/, "").replace(/}$/, ""))
-    .replace("__common_file_icon_def_placeholder", JSON.stringify(commonIconDefMap).replace(/^{/, "").replace(/}$/, ""))
-    .replace("__common_file_icon_ref_placeholder", JSON.stringify(commonIconRefMap).replace(/^{/, "").replace(/}$/, ""))
-    .replace("__config_file_icon_def_placeholder", JSON.stringify(configIconDefMap).replace(/^{/, "").replace(/}$/, ""))
-    .replace("__config_file_icon_ref_placeholder", JSON.stringify(configIconRefMap).replace(/^{/, "").replace(/}$/, ""))
-    .replace("__special_file_icon_def_placeholder", JSON.stringify(specialIconDefMap).replace(/^{/, "").replace(/}$/, ""))
-    .replace("__special_file_icon_ref_placeholder", JSON.stringify(specialIconRefMap).replace(/^{/, "").replace(/}$/, ""))
+    .replace(/__lang_file_icon_def_placeholder/g, JSON.stringify(langIconDefMap).replace(/^{/, "").replace(/}$/, ""))
+    .replace(/__lang_file_icon_ref_placeholder/g, JSON.stringify(langIconRefMap).replace(/^{/, "").replace(/}$/, ""))
+    .replace(/__common_file_icon_def_placeholder/g, JSON.stringify(commonIconDefMap).replace(/^{/, "").replace(/}$/, ""))
+    .replace(/__common_file_icon_ref_placeholder/g, JSON.stringify(commonIconRefMap).replace(/^{/, "").replace(/}$/, ""))
+    .replace(/__config_file_icon_def_placeholder/g, JSON.stringify(configIconDefMap).replace(/^{/, "").replace(/}$/, ""))
+    .replace(/__config_file_icon_ref_placeholder/g, JSON.stringify(configIconRefMap).replace(/^{/, "").replace(/}$/, ""))
+    .replace(/__special_file_icon_def_placeholder/g, JSON.stringify(specialIconDefMap).replace(/^{/, "").replace(/}$/, ""))
+    .replace(/__special_file_icon_ref_placeholder/g, JSON.stringify(specialIconRefMap).replace(/^{/, "").replace(/}$/, ""))
 
 fs.writeFileSync("./fileicons/seti.json", targetFileContent);
