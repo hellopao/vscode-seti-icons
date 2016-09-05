@@ -18,7 +18,10 @@
 		"_file_light": {
 			"iconPath": "./images/file.svg"
 		},
-        __lang_file_icon_def_placeholder
+        __lang_file_icon_def_placeholder,
+        __common_file_icon_def_placeholder,
+        __config_file_icon_def_placeholder,
+        __special_file_icon_def_placeholder
 	},
 
 	"folderExpanded": "_folder_open_dark",
@@ -26,10 +29,14 @@
 	"file": "_file_dark",
 	"fileExtensions": {
 		// icons by file extension
-        __lang_file_icon_ref_placeholder
+        __lang_file_icon_ref_placeholder,
+        __common_file_icon_ref_placeholder,
+        __config_file_icon_ref_placeholder
 	},
 	"fileNames": {
 		// icons by file name
+        __special_file_icon_ref_placeholder
+
 	},
 	"languageIds": {
 		// icons by language id
