@@ -16,7 +16,6 @@ langFiles.forEach(file => {
     const langDefKey = `_${filename}_file`;
     langIconDefMap[langDefKey] = {
         iconPath: `./images/lang/${file}`
-
     };
     langIconRefMap[filename] = langDefKey;
 });
