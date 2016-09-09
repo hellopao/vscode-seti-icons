@@ -1,0 +1,9 @@
+{
+    "file": "default",
+    "folder": {
+        "iconPath": "./fonts/folder.svg"
+    },
+    "folderExpanded": {			
+        "iconPath": "./fonts/folder_open.svg"
+    }
+}

@@ -2,7 +2,7 @@
     "name": "seti-icons",
     "displayName": "seti-icons",
     "description": "Icons for VS Code",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "publisher": "qinjia",
     "icon": "images/icon.png",
     "engines": {
@@ -29,7 +29,7 @@
 			{
 				"id": "seti",
 				"label": "Seti UI",
-				"path": "./fileicons/seti.json"
+				"path": "./seti.json"
 			}
 		]
     }

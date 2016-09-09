@@ -1,0 +1,15 @@
+{
+    "bower.json": "bower",
+    "karma.conf.js": "karma",
+    "karma.conf.coffee": "karma",
+    "dockerfile": "docker",
+    "gruntfile.js": "grunt",
+    "gulpfile.js": "gulp",
+    "ionic.config.json": "ionic",
+    "ionic.project": "ionic",
+    "license": "license",
+    "procfile": "heroku",
+    "todo": "todo",
+    "npm-debug.log": "npm",
+    "favicon.ico": "favicon"
+}
