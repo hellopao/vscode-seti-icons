@@ -106,7 +106,7 @@
     "txt": "default",
     "twig": "twig",
     "ts": "typescript",
-    "tsx": "typescript",
+    "tsx": "react",
     "direnv": "config",
     "env": "config",
     "static": "config",
@@ -120,5 +120,38 @@
     "mpg": "video",
     "mp4": "video",
     "xml": "xml",
-    "yml": "yml"
+    "yml": "yml",
+    "vue": {
+        "iconPath": "./fonts/vue.svg"
+    },
+    "babelrc": {
+        "iconPath": "./fonts/babel.svg"
+    },
+    "eslintrc": {
+        "iconPath": "./fonts/eslint.svg"
+    },
+    "xcodeproj": {
+        "iconPath": "./fonts/xcode.svg"
+    },
+    "zip": {
+        "iconPath": "./fonts/zip.svg"
+    },
+    "rar": {
+        "iconPath": "./fonts/zip.svg"
+    },
+    "gz": {
+        "iconPath": "./fonts/zip.svg"
+    },
+    "iso": {
+        "iconPath": "./fonts/zip.svg"
+    },
+    "key": {
+        "iconPath": "./fonts/key.svg"
+    },
+    "pem": {
+        "iconPath": "./fonts/key.svg"
+    },
+    "fs": {
+        "iconPath": "./fonts/fsharp.svg"
+    }
 }

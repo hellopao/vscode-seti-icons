@@ -10,4 +10,12 @@ Icons for VS Code (version 1.5.0+)
 
 ## screenshot
 
-![screenshot](./screenshot.png)
+![screenshot](https://github.com/hellopao/vscode-seti-icons/raw/master/./screenshot.png)
+
+## change log
+
+- v0.0.8 
+
+ 1. add icons for folders(.vscode, typings, node_modules, .git)
+
+ 2. add icons for files(.pem, .key, .fs, .zip, .rar, .xcodeproj, .vue)
