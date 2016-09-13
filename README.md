@@ -10,7 +10,7 @@ Icons for VS Code (version 1.5.0+)
 
 ## screenshot
 
-![screenshot](https://github.com/hellopao/vscode-seti-icons/raw/master/./screenshot.png)
+![screenshot](./screenshot.png)
 
 ## change log
 
