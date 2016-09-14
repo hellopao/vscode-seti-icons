@@ -13,14 +13,14 @@
         "typings": {
             "iconPath": "./images/typings_folder.png"
         },
-        "src": {
-            "iconPath": "./images/src_folder.png"
-        },
         "node_modules": {
             "iconPath": "./images/node_modules_folder.png"
         },
         ".git": {
             "iconPath": "./images/git_folder.png"
+        },
+        "src": {
+            "iconPath": "./images/src_folder.png"
         }
     },
     "folderNamesExpanded": {
@@ -30,14 +30,14 @@
         "typings": {
             "iconPath": "./images/typings_folder_open.png"
         },
-        "src": {
-            "iconPath": "./images/src_folder_open.png"
-        },
         "node_modules": {
             "iconPath": "./images/node_modules_folder_open.png"
         },
         ".git": {
             "iconPath": "./images/git_folder_open.png"
+        },
+        "src": {
+            "iconPath": "./images/src_folder_open.png"
         }
     }
 }

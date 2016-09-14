@@ -14,5 +14,14 @@
     "favicon.ico": "favicon",
     "nginx.conf": {
         "iconPath": "./fonts/nginx.svg"
+    },
+    "webpack.config.js": {
+        "iconPath": "./fonts/webpack.svg"
+    },
+    "_vimrc": {
+        "iconPath": "./fonts/vim.svg"
+    },
+    "_viminfo": {
+        "iconPath": "./fonts/vim.svg"
     }
 }

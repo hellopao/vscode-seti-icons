@@ -14,6 +14,12 @@ Icons for VS Code (version 1.5.0+)
 
 ## change log
 
+- v0.0.9
+
+ 1. add icons for folders(src)
+
+ 2. add icons for files(webpack.config.js, .vim)
+
 - v0.0.8 
 
  1. add icons for folders(.vscode, typings, node_modules, .git)
