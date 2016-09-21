@@ -12,16 +12,8 @@
     "todo": "todo",
     "npm-debug.log": "npm",
     "favicon.ico": "favicon",
-    "nginx.conf": {
-        "iconPath": "./fonts/nginx.svg"
-    },
-    "webpack.config.js": {
-        "iconPath": "./fonts/webpack.svg"
-    },
-    "_vimrc": {
-        "iconPath": "./fonts/vim.svg"
-    },
-    "_viminfo": {
-        "iconPath": "./fonts/vim.svg"
-    }
+    "nginx.conf": "nginx",
+    "webpack.config.js": "webpack",
+    "_vimrc": "vim",
+    "_viminfo": "vim"
 }

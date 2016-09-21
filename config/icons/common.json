@@ -1,43 +1,19 @@
 {
     "file": "default",
-    "folder": {
-        "iconPath": "./fonts/folder.svg"
-    },
-    "folderExpanded": {			
-        "iconPath": "./fonts/folder_open.svg"
-    },
+    "folder": "folder",
+    "folderExpanded": "folder_open",
     "folderNames": {
-        ".vscode": {
-            "iconPath": "./images/vscode_folder.png"
-        },
-        "typings": {
-            "iconPath": "./images/typings_folder.png"
-        },
-        "node_modules": {
-            "iconPath": "./images/node_modules_folder.png"
-        },
-        ".git": {
-            "iconPath": "./images/git_folder.png"
-        },
-        "src": {
-            "iconPath": "./images/src_folder.png"
-        }
+        ".vscode": "vscode_folder",
+        "typings": "typings_folder",
+        "node_modules": "node_modules_folder",
+        ".git": "git_folder",
+        "src": "src_folder"
     },
     "folderNamesExpanded": {
-        ".vscode": {
-            "iconPath": "./images/vscode_folder_open.png"
-        },
-        "typings": {
-            "iconPath": "./images/typings_folder_open.png"
-        },
-        "node_modules": {
-            "iconPath": "./images/node_modules_folder_open.png"
-        },
-        ".git": {
-            "iconPath": "./images/git_folder_open.png"
-        },
-        "src": {
-            "iconPath": "./images/src_folder_open.png"
-        }
+        ".vscode": "vscode_folder_open",
+        "typings": "typings_folder_open",
+        "node_modules": "node_modules_folder_open",
+        ".git": "git_folder_open",
+        "src": "src_folder_open"
     }
 }

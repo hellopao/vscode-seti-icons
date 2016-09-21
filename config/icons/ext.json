@@ -3,7 +3,7 @@
     "wav": "audio",
     "ogg": "audio",
     "bowerrc": "bower",
-    "cs": "c-sharp",
+    "cs": "csharp",
     "c": "c",
     "h": "c",
     "m": "c",
@@ -26,9 +26,10 @@
     "woff": "font",
     "woff2": "font",
     "eot": "font",
-    "gitkeep": "github",
-    "gitconfig": "github",
-    "gitattributes": "github",
+    "gitkeep": "git",
+    "gitconfig": "git",
+    "gitattributes": "git",
+    "gitmodules": "git",
     "gitignore": "git",
     "go": "go",
     "gradle": "gradle",
@@ -42,7 +43,7 @@
     "html": "html",
     "shtml": "html",
     "dhtml": "html",
-    "ai": "illustrator",
+    "ai": "ai",
     "png": "image",
     "ico": "image",
     "jpg": "image",
@@ -121,46 +122,20 @@
     "mp4": "video",
     "xml": "xml",
     "yml": "yml",
-    "vue": {
-        "iconPath": "./fonts/vue.svg"
-    },
-    "babelrc": {
-        "iconPath": "./fonts/babel.svg"
-    },
-    "eslintrc": {
-        "iconPath": "./fonts/eslint.svg"
-    },
-    "xcodeproj": {
-        "iconPath": "./fonts/xcode.svg"
-    },
-    "zip": {
-        "iconPath": "./fonts/zip.svg"
-    },
-    "rar": {
-        "iconPath": "./fonts/zip.svg"
-    },
-    "gz": {
-        "iconPath": "./fonts/zip.svg"
-    },
-    "iso": {
-        "iconPath": "./fonts/zip.svg"
-    },
-    "key": {
-        "iconPath": "./fonts/key.svg"
-    },
-    "pem": {
-        "iconPath": "./fonts/key.svg"
-    },
-    "fs": {
-        "iconPath": "./fonts/fsharp.svg"
-    },
-    "vimrc": {
-        "iconPath": "./fonts/vim.svg"
-    },
-    "vim": {
-        "iconPath": "./fonts/vim.svg"
-    },
-    "viminfo": {
-        "iconPath": "./fonts/vim.svg"
-    }
+    "vue": "vue",
+    "babelrc": "babel",
+    "eslintrc": "eslint",
+    "xcodeproj": "xcode",
+    "zip": "zip",
+    "rar": "zip",
+    "gz": "zip",
+    "iso": "zip",
+    "key": "key",
+    "pem": "key",
+    "fs": "fsharp",
+    "vimrc": "vim",
+    "vim": "vim",
+    "viminfo": "vim",
+    "sql": "sql",
+    "htaccess": "apache"
 }
