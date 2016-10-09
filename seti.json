@@ -14,31 +14,1752 @@
 		}
 	],
 	"iconDefinitions": {
-        "__mp3_icon":{"fontCharacter":"\\e003","fontColor":"#a074c4"},"__mp3_icon_light":{"fontCharacter":"\\e003","fontColor":"#5f8b3b"},"__wav_icon":{"fontCharacter":"\\e003","fontColor":"#a074c4"},"__wav_icon_light":{"fontCharacter":"\\e003","fontColor":"#5f8b3b"},"__ogg_icon":{"fontCharacter":"\\e003","fontColor":"#a074c4"},"__ogg_icon_light":{"fontCharacter":"\\e003","fontColor":"#5f8b3b"},"__bowerrc_icon":{"fontCharacter":"\\e006","fontColor":"#e37933"},"__bowerrc_icon_light":{"fontCharacter":"\\e006","fontColor":"#1c86cc"},"__cs_icon":{"fontCharacter":"\\e00e","fontColor":"#519aba"},"__cs_icon_light":{"fontCharacter":"\\e00e","fontColor":"#ae6545"},"__c_icon":{"fontCharacter":"\\e007","fontColor":"#cbcb41"},"__c_icon_light":{"fontCharacter":"\\e007","fontColor":"#3434be"},"__h_icon":{"fontCharacter":"\\e007","fontColor":"#cbcb41"},"__h_icon_light":{"fontCharacter":"\\e007","fontColor":"#3434be"},"__m_icon":{"fontCharacter":"\\e007","fontColor":"#cbcb41"},"__m_icon_light":{"fontCharacter":"\\e007","fontColor":"#3434be"},"__ctp_icon":{"fontCharacter":"\\e008","fontColor":"#cc3e44"},"__ctp_icon_light":{"fontCharacter":"\\e008","fontColor":"#33c1bb"},"__cjsx_icon":{"fontCharacter":"\\e046","fontColor":"#519aba"},"__cjsx_icon_light":{"fontCharacter":"\\e046","fontColor":"#ae6545"},"__jsx_icon":{"fontCharacter":"\\e046","fontColor":"#519aba"},"__jsx_icon_light":{"fontCharacter":"\\e046","fontColor":"#ae6545"},"__tmp_icon":{"fontCharacter":"\\e00a","fontColor":"#6d8086"},"__tmp_icon_light":{"fontCharacter":"\\e00a","fontColor":"#927f79"},"__coffee_icon":{"fontColor":"#cbcb41"},"__coffee_icon_light":{"fontColor":"#3434be"},"__cfc_icon":{"fontCharacter":"\\e00b","fontColor":"#519aba"},"__cfc_icon_light":{"fontCharacter":"\\e00b","fontColor":"#ae6545"},"__cfm_icon":{"fontCharacter":"\\e00b","fontColor":"#519aba"},"__cfm_icon_light":{"fontCharacter":"\\e00b","fontColor":"#ae6545"},"__config_icon":{"fontCharacter":"\\e00c","fontColor":"#6d8086"},"__config_icon_light":{"fontCharacter":"\\e00c","fontColor":"#927f79"},"__cpp_icon":{"fontCharacter":"\\e00d","fontColor":"#519aba"},"__cpp_icon_light":{"fontCharacter":"\\e00d","fontColor":"#ae6545"},"__css_icon":{"fontCharacter":"\\e00f","fontColor":"#519aba"},"__css_icon_light":{"fontCharacter":"\\e00f","fontColor":"#ae6545"},"__sss_icon":{"fontCharacter":"\\e00f","fontColor":"#519aba"},"__sss_icon_light":{"fontCharacter":"\\e00f","fontColor":"#ae6545"},"__csv_icon":{"fontCharacter":"\\e010","fontColor":"#8dc149"},"__csv_icon_light":{"fontCharacter":"\\e010","fontColor":"#723eb6"},"__editorconfig_icon":{"fontCharacter":"\\e014","fontColor":"#519aba"},"__editorconfig_icon_light":{"fontCharacter":"\\e014","fontColor":"#ae6545"},"__ejs_icon":{"fontCharacter":"\\e015","fontColor":"#cbcb41"},"__ejs_icon_light":{"fontCharacter":"\\e015","fontColor":"#3434be"},"__elm_icon":{"fontCharacter":"\\e016","fontColor":"#519aba"},"__elm_icon_light":{"fontCharacter":"\\e016","fontColor":"#ae6545"},"__ttf_icon":{"fontCharacter":"\\e01b","fontColor":"#cc3e44"},"__ttf_icon_light":{"fontCharacter":"\\e01b","fontColor":"#33c1bb"},"__woff_icon":{"fontCharacter":"\\e01b","fontColor":"#cc3e44"},"__woff_icon_light":{"fontCharacter":"\\e01b","fontColor":"#33c1bb"},"__woff2_icon":{"fontCharacter":"\\e01b","fontColor":"#cc3e44"},"__woff2_icon_light":{"fontCharacter":"\\e01b","fontColor":"#33c1bb"},"__eot_icon":{"fontCharacter":"\\e01b","fontColor":"#cc3e44"},"__eot_icon_light":{"fontCharacter":"\\e01b","fontColor":"#33c1bb"},"__gitkeep_icon":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__gitkeep_icon_light":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__gitconfig_icon":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__gitconfig_icon_light":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__gitattributes_icon":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__gitattributes_icon_light":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__gitmodules_icon":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__gitmodules_icon_light":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__gitignore_icon":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__gitignore_icon_light":{"fontCharacter":"\\e01d","fontColor":"#de4c36"},"__go_icon":{"fontCharacter":"\\e01f","fontColor":"#519aba"},"__go_icon_light":{"fontCharacter":"\\e01f","fontColor":"#ae6545"},"__gradle_icon":{"fontCharacter":"\\e020","fontColor":"#8dc149"},"__gradle_icon_light":{"fontCharacter":"\\e020","fontColor":"#723eb6"},"__grails_icon":{"fontCharacter":"\\e021","fontColor":"#8dc149"},"__grails_icon_light":{"fontCharacter":"\\e021","fontColor":"#723eb6"},"__groovy_icon":{"fontCharacter":"\\e021","fontColor":"#8dc149"},"__groovy_icon_light":{"fontCharacter":"\\e021","fontColor":"#723eb6"},"__hh_icon":{"fontCharacter":"\\e024","fontColor":"#e37933"},"__hh_icon_light":{"fontCharacter":"\\e024","fontColor":"#1c86cc"},"__haml_icon":{"fontCharacter":"\\e025","fontColor":"#cc3e44"},"__haml_icon_light":{"fontCharacter":"\\e025","fontColor":"#33c1bb"},"__hs_icon":{"fontCharacter":"\\e026","fontColor":"#a074c4"},"__hs_icon_light":{"fontCharacter":"\\e026","fontColor":"#5f8b3b"},"__lhs_icon":{"fontCharacter":"\\e026","fontColor":"#a074c4"},"__lhs_icon_light":{"fontCharacter":"\\e026","fontColor":"#5f8b3b"},"__htm_icon":{"fontCharacter":"\\e027","fontColor":"#e37933"},"__htm_icon_light":{"fontCharacter":"\\e027","fontColor":"#1c86cc"},"__html_icon":{"fontCharacter":"\\e027","fontColor":"#e37933"},"__html_icon_light":{"fontCharacter":"\\e027","fontColor":"#1c86cc"},"__shtml_icon":{"fontCharacter":"\\e027","fontColor":"#e37933"},"__shtml_icon_light":{"fontCharacter":"\\e027","fontColor":"#1c86cc"},"__dhtml_icon":{"fontCharacter":"\\e027","fontColor":"#e37933"},"__dhtml_icon_light":{"fontCharacter":"\\e027","fontColor":"#1c86cc"},"__ai_icon":{"fontCharacter":"\\e001","fontColor":"#cbcb41"},"__ai_icon_light":{"fontCharacter":"\\e001","fontColor":"#3434be"},"__png_icon":{"fontCharacter":"\\e028","fontColor":"#a074c4"},"__png_icon_light":{"fontCharacter":"\\e028","fontColor":"#5f8b3b"},"__ico_icon":{"fontCharacter":"\\e028","fontColor":"#a074c4"},"__ico_icon_light":{"fontCharacter":"\\e028","fontColor":"#5f8b3b"},"__jpg_icon":{"fontCharacter":"\\e028","fontColor":"#a074c4"},"__jpg_icon_light":{"fontCharacter":"\\e028","fontColor":"#5f8b3b"},"__bmp_icon":{"fontCharacter":"\\e028","fontColor":"#a074c4"},"__bmp_icon_light":{"fontCharacter":"\\e028","fontColor":"#5f8b3b"},"__jpeg_icon":{"fontCharacter":"\\e028","fontColor":"#a074c4"},"__jpeg_icon_light":{"fontCharacter":"\\e028","fontColor":"#5f8b3b"},"__gif_icon":{"fontCharacter":"\\e028","fontColor":"#a074c4"},"__gif_icon_light":{"fontCharacter":"\\e028","fontColor":"#5f8b3b"},"__jade_icon":{"fontCharacter":"\\e02b","fontColor":"#cc3e44"},"__jade_icon_light":{"fontCharacter":"\\e02b","fontColor":"#33c1bb"},"__java_icon":{"fontCharacter":"\\e02c","fontColor":"#cc3e44"},"__java_icon_light":{"fontCharacter":"\\e02c","fontColor":"#33c1bb"},"__js_icon":{"fontCharacter":"\\e02d","fontColor":"#cbcb41"},"__js_icon_light":{"fontCharacter":"\\e02d","fontColor":"#ae6545"},"__es6_icon":{"fontCharacter":"\\e02d","fontColor":"#cbcb41"},"__es6_icon_light":{"fontCharacter":"\\e02d","fontColor":"#ae6545"},"__es7_icon":{"fontCharacter":"\\e02d","fontColor":"#cbcb41"},"__es7_icon_light":{"fontCharacter":"\\e02d","fontColor":"#ae6545"},"__json_icon":{"fontCharacter":"\\e02e","fontColor":"#cbcb41"},"__json_icon_light":{"fontCharacter":"\\e02e","fontColor":"#3434be"},"__jl_icon":{"fontCharacter":"\\e02f","fontColor":"#a074c4"},"__jl_icon_light":{"fontCharacter":"\\e02f","fontColor":"#5f8b3b"},"__less_icon":{"fontCharacter":"\\e032","fontColor":"#519aba"},"__less_icon_light":{"fontCharacter":"\\e032","fontColor":"#ae6545"},"__liquid_icon":{"fontCharacter":"\\e034","fontColor":"#8dc149"},"__liquid_icon_light":{"fontCharacter":"\\e034","fontColor":"#723eb6"},"__ls_icon":{"fontCharacter":"\\e035","fontColor":"#519aba"},"__ls_icon_light":{"fontCharacter":"\\e035","fontColor":"#ae6545"},"__lua_icon":{"fontCharacter":"\\e036","fontColor":"#519aba"},"__lua_icon_light":{"fontCharacter":"\\e036","fontColor":"#ae6545"},"__md_icon":{"fontCharacter":"\\e037","fontColor":"#519aba"},"__md_icon_light":{"fontCharacter":"\\e037","fontColor":"#ae6545"},"__mustache_icon":{"fontCharacter":"\\e038","fontColor":"#e37933"},"__mustache_icon_light":{"fontCharacter":"\\e038","fontColor":"#1c86cc"},"__handlebars_icon":{"fontCharacter":"\\e038","fontColor":"#e37933"},"__handlebars_icon_light":{"fontCharacter":"\\e038","fontColor":"#1c86cc"},"__hbs_icon":{"fontCharacter":"\\e038","fontColor":"#e37933"},"__hbs_icon_light":{"fontCharacter":"\\e038","fontColor":"#1c86cc"},"__hjs_icon":{"fontCharacter":"\\e038","fontColor":"#e37933"},"__hjs_icon_light":{"fontCharacter":"\\e038","fontColor":"#1c86cc"},"__stache_icon":{"fontCharacter":"\\e038","fontColor":"#e37933"},"__stache_icon_light":{"fontCharacter":"\\e038","fontColor":"#1c86cc"},"__npmignore_icon":{"fontCharacter":"\\e03b","fontColor":"#cb3837"},"__npmignore_icon_light":{"fontCharacter":"\\e03b","fontColor":"#cb3837"},"__ml_icon":{"fontCharacter":"\\e03c","fontColor":"#e37933"},"__ml_icon_light":{"fontCharacter":"\\e03c","fontColor":"#1c86cc"},"__mli_icon":{"fontCharacter":"\\e03c","fontColor":"#e37933"},"__mli_icon_light":{"fontCharacter":"\\e03c","fontColor":"#1c86cc"},"__cmx_icon":{"fontCharacter":"\\e03c","fontColor":"#e37933"},"__cmx_icon_light":{"fontCharacter":"\\e03c","fontColor":"#1c86cc"},"__cmxa_icon":{"fontCharacter":"\\e03c","fontColor":"#e37933"},"__cmxa_icon_light":{"fontCharacter":"\\e03c","fontColor":"#1c86cc"},"__pdf_icon":{"fontCharacter":"\\e03d","fontColor":"#cc3e44"},"__pdf_icon_light":{"fontCharacter":"\\e03d","fontColor":"#33c1bb"},"__pl_icon":{"fontCharacter":"\\e03e","fontColor":"#519aba"},"__pl_icon_light":{"fontCharacter":"\\e03e","fontColor":"#ae6545"},"__psd_icon":{"fontCharacter":"\\e03f","fontColor":"#519aba"},"__psd_icon_light":{"fontCharacter":"\\e03f","fontColor":"#ae6545"},"__php_icon":{"fontCharacter":"\\e040","fontColor":"#a074c4"},"__php_icon_light":{"fontCharacter":"\\e040","fontColor":"#5f8b3b"},"__php.inc_icon":{"fontCharacter":"\\e040","fontColor":"#a074c4"},"__php.inc_icon_light":{"fontCharacter":"\\e040","fontColor":"#5f8b3b"},"__pug_icon":{"fontCharacter":"\\e042","fontColor":"#519aba"},"__pug_icon_light":{"fontCharacter":"\\e042","fontColor":"#ae6545"},"__pp_icon":{"fontCharacter":"\\e043","fontColor":"#a074c4"},"__pp_icon_light":{"fontCharacter":"\\e043","fontColor":"#5f8b3b"},"__py_icon":{"fontCharacter":"\\e044","fontColor":"#519aba"},"__py_icon_light":{"fontCharacter":"\\e044","fontColor":"#ae6545"},"__rb_icon":{"fontCharacter":"\\e047","fontColor":"#cc3e44"},"__rb_icon_light":{"fontCharacter":"\\e047","fontColor":"#33c1bb"},"__erb.html_icon":{"fontCharacter":"\\e047","fontColor":"#cc3e44"},"__erb.html_icon_light":{"fontCharacter":"\\e047","fontColor":"#33c1bb"},"__html.erb_icon":{"fontCharacter":"\\e047","fontColor":"#cc3e44"},"__html.erb_icon_light":{"fontCharacter":"\\e047","fontColor":"#33c1bb"},"__rs_icon":{"fontCharacter":"\\e048","fontColor":"#6d8086"},"__rs_icon_light":{"fontCharacter":"\\e048","fontColor":"#927f79"},"__sass_icon":{"fontCharacter":"\\e049","fontColor":"#f55385"},"__sass_icon_light":{"fontCharacter":"\\e049","fontColor":"#aac7a"},"__scss_icon":{"fontCharacter":"\\e049","fontColor":"#f55385"},"__scss_icon_light":{"fontCharacter":"\\e049","fontColor":"#aac7a"},"__sbt_icon":{"fontCharacter":"\\e04a","fontColor":"#519aba"},"__sbt_icon_light":{"fontCharacter":"\\e04a","fontColor":"#ae6545"},"__scala_icon":{"fontCharacter":"\\e04b","fontColor":"#cc3e44"},"__scala_icon_light":{"fontCharacter":"\\e04b","fontColor":"#33c1bb"},"__sh_icon":{"fontCharacter":"\\e04d","fontColor":"#4d5a5e"},"__sh_icon_light":{"fontCharacter":"\\e04d","fontColor":"#b2a5a1"},"__zsh_icon":{"fontCharacter":"\\e04d","fontColor":"#4d5a5e"},"__zsh_icon_light":{"fontCharacter":"\\e04d","fontColor":"#b2a5a1"},"__fish_icon":{"fontCharacter":"\\e04d","fontColor":"#4d5a5e"},"__fish_icon_light":{"fontCharacter":"\\e04d","fontColor":"#b2a5a1"},"__slim_icon":{"fontCharacter":"\\e04e","fontColor":"#e37933"},"__slim_icon_light":{"fontCharacter":"\\e04e","fontColor":"#1c86cc"},"__smarty_icon":{"fontCharacter":"\\e04f","fontColor":"#cbcb41"},"__smarty_icon_light":{"fontCharacter":"\\e04f","fontColor":"#3434be"},"__smarty.tpl_icon":{"fontCharacter":"\\e04f","fontColor":"#cbcb41"},"__smarty.tpl_icon_light":{"fontCharacter":"\\e04f","fontColor":"#3434be"},"__styl_icon":{"fontCharacter":"\\e051","fontColor":"#8dc149"},"__styl_icon_light":{"fontCharacter":"\\e051","fontColor":"#723eb6"},"__svg_icon":{"fontCharacter":"\\e052","fontColor":"#a074c4"},"__svg_icon_light":{"fontCharacter":"\\e052","fontColor":"#5f8b3b"},"__swift_icon":{"fontCharacter":"\\e053","fontColor":"#e37933"},"__swift_icon_light":{"fontCharacter":"\\e053","fontColor":"#1c86cc"},"__tf_icon":{"fontCharacter":"\\e054","fontColor":"#a074c4"},"__tf_icon_light":{"fontCharacter":"\\e054","fontColor":"#5f8b3b"},"__tf.json_icon":{"fontCharacter":"\\e054","fontColor":"#a074c4"},"__tf.json_icon_light":{"fontCharacter":"\\e054","fontColor":"#5f8b3b"},"__tex_icon":{"fontCharacter":"\\e055","fontColor":"#d4d7d6"},"__tex_icon_light":{"fontCharacter":"\\e055","fontColor":"#2b2829"},"__sty_icon":{"fontCharacter":"\\e055","fontColor":"#d4d7d6"},"__sty_icon_light":{"fontCharacter":"\\e055","fontColor":"#2b2829"},"__cls_icon":{"fontCharacter":"\\e055","fontColor":"#d4d7d6"},"__cls_icon_light":{"fontCharacter":"\\e055","fontColor":"#2b2829"},"__dtx_icon":{"fontCharacter":"\\e055","fontColor":"#d4d7d6"},"__dtx_icon_light":{"fontCharacter":"\\e055","fontColor":"#2b2829"},"__ins_icon":{"fontCharacter":"\\e055","fontColor":"#d4d7d6"},"__ins_icon_light":{"fontCharacter":"\\e055","fontColor":"#2b2829"},"__txt_icon":{"fontCharacter":"\\e011","fontColor":"#d4d7d6"},"__txt_icon_light":{"fontCharacter":"\\e011","fontColor":"#2b2829"},"__twig_icon":{"fontCharacter":"\\e057","fontColor":"#8dc149"},"__twig_icon_light":{"fontCharacter":"\\e057","fontColor":"#723eb6"},"__ts_icon":{"fontCharacter":"\\e058","fontColor":"#519aba"},"__ts_icon_light":{"fontCharacter":"\\e058","fontColor":"#ae6545"},"__tsx_icon":{"fontCharacter":"\\e046","fontColor":"#519aba"},"__tsx_icon_light":{"fontCharacter":"\\e046","fontColor":"#ae6545"},"__direnv_icon":{"fontCharacter":"\\e00c","fontColor":"#6d8086"},"__direnv_icon_light":{"fontCharacter":"\\e00c","fontColor":"#927f79"},"__env_icon":{"fontCharacter":"\\e00c","fontColor":"#6d8086"},"__env_icon_light":{"fontCharacter":"\\e00c","fontColor":"#927f79"},"__static_icon":{"fontCharacter":"\\e00c","fontColor":"#6d8086"},"__static_icon_light":{"fontCharacter":"\\e00c","fontColor":"#927f79"},"__slugignore_icon":{"fontCharacter":"\\e00c","fontColor":"#6d8086"},"__slugignore_icon_light":{"fontCharacter":"\\e00c","fontColor":"#927f79"},"__vala_icon":{"fontCharacter":"\\e059","fontColor":"#6d8086"},"__vala_icon_light":{"fontCharacter":"\\e059","fontColor":"#927f79"},"__wmv_icon":{"fontCharacter":"\\e05a","fontColor":"#f55385"},"__wmv_icon_light":{"fontCharacter":"\\e05a","fontColor":"#aac7a"},"__mov_icon":{"fontCharacter":"\\e05a","fontColor":"#f55385"},"__mov_icon_light":{"fontCharacter":"\\e05a","fontColor":"#aac7a"},"__ogv_icon":{"fontCharacter":"\\e05a","fontColor":"#f55385"},"__ogv_icon_light":{"fontCharacter":"\\e05a","fontColor":"#aac7a"},"__webm_icon":{"fontCharacter":"\\e05a","fontColor":"#f55385"},"__webm_icon_light":{"fontCharacter":"\\e05a","fontColor":"#aac7a"},"__avi_icon":{"fontCharacter":"\\e05a","fontColor":"#f55385"},"__avi_icon_light":{"fontCharacter":"\\e05a","fontColor":"#aac7a"},"__mpg_icon":{"fontCharacter":"\\e05a","fontColor":"#f55385"},"__mpg_icon_light":{"fontCharacter":"\\e05a","fontColor":"#aac7a"},"__mp4_icon":{"fontCharacter":"\\e05a","fontColor":"#f55385"},"__mp4_icon_light":{"fontCharacter":"\\e05a","fontColor":"#aac7a"},"__xml_icon":{"fontCharacter":"\\e060","fontColor":"#e37933"},"__xml_icon_light":{"fontCharacter":"\\e060","fontColor":"#1c86cc"},"__yml_icon":{"fontCharacter":"\\e061","fontColor":"#a074c4"},"__yml_icon_light":{"fontCharacter":"\\e061","fontColor":"#5f8b3b"},"__vue_icon":{"fontCharacter":"\\e05d","fontColor":"#41b883"},"__vue_icon_light":{"fontCharacter":"\\e05d","fontColor":"#41b883"},"__babelrc_icon":{"fontCharacter":"\\e004","fontColor":"#cbcb41"},"__babelrc_icon_light":{"fontCharacter":"\\e004","fontColor":"#3434be"},"__eslintrc_icon":{"fontCharacter":"\\e017","fontColor":"#3a33d1"},"__eslintrc_icon_light":{"fontCharacter":"\\e017","fontColor":"#6464e2"},"__jshintrc_icon":{"fontCharacter":"\\e06e"},"__jshintrc_icon_light":{"fontCharacter":"\\e06e"},"__xcodeproj_icon":{"fontCharacter":"\\e05f","fontColor":"#1a8af4"},"__xcodeproj_icon_light":{"fontCharacter":"\\e05f","fontColor":"#1a8af4"},"__zip_icon":{"fontCharacter":"\\e062","fontColor":"#157efb"},"__zip_icon_light":{"fontCharacter":"\\e062","fontColor":"#00b8df"},"__rar_icon":{"fontCharacter":"\\e062","fontColor":"#157efb"},"__rar_icon_light":{"fontCharacter":"\\e062","fontColor":"#00b8df"},"__gz_icon":{"fontCharacter":"\\e062","fontColor":"#157efb"},"__gz_icon_light":{"fontCharacter":"\\e062","fontColor":"#00b8df"},"__iso_icon":{"fontCharacter":"\\e062","fontColor":"#157efb"},"__iso_icon_light":{"fontCharacter":"\\e062","fontColor":"#00b8df"},"__key_icon":{"fontCharacter":"\\e031","fontColor":"#157efb"},"__key_icon_light":{"fontCharacter":"\\e031","fontColor":"#157efb"},"__pem_icon":{"fontCharacter":"\\e031","fontColor":"#157efb"},"__pem_icon_light":{"fontCharacter":"\\e031","fontColor":"#157efb"},"__fs_icon":{"fontCharacter":"\\e01c","fontColor":"#378bba"},"__fs_icon_light":{"fontCharacter":"\\e01c","fontColor":"#30b9db"},"__vimrc_icon":{"fontCharacter":"\\e05b","fontColor":"#019833"},"__vimrc_icon_light":{"fontCharacter":"\\e05b","fontColor":"#019833"},"__vim_icon":{"fontCharacter":"\\e05b","fontColor":"#019833"},"__vim_icon_light":{"fontCharacter":"\\e05b","fontColor":"#019833"},"__viminfo_icon":{"fontCharacter":"\\e05b","fontColor":"#019833"},"__viminfo_icon_light":{"fontCharacter":"\\e05b","fontColor":"#019833"},"__sql_icon":{"fontCharacter":"\\e050","fontColor":"#00546b"},"__sql_icon_light":{"fontCharacter":"\\e050","fontColor":"#00546b"},"__htaccess_icon":{"fontCharacter":"\\e002","fontColor":"#dd1d59"},"__htaccess_icon_light":{"fontCharacter":"\\e002","fontColor":"#f7d97c"},"__wxml_icon":{"fontCharacter":"\\e071","fontColor":"#2dc100"},"__wxml_icon_light":{"fontCharacter":"\\e071","fontColor":"#2dc100"},"__wxss_icon":{"fontCharacter":"\\e070","fontColor":"#2dc100"},"__wxss_icon_light":{"fontCharacter":"\\e070","fontColor":"#2dc100"},
-        "__bower.json_icon":{"fontCharacter":"\\e006","fontColor":"#e37933"},"__bower.json_icon_light":{"fontCharacter":"\\e006","fontColor":"#1c86cc"},"__karma.conf.js_icon":{"fontCharacter":"\\e030","fontColor":"#519aba"},"__karma.conf.js_icon_light":{"fontCharacter":"\\e030","fontColor":"#ae6545"},"__karma.conf.coffee_icon":{"fontCharacter":"\\e030","fontColor":"#519aba"},"__karma.conf.coffee_icon_light":{"fontCharacter":"\\e030","fontColor":"#ae6545"},"__dockerfile_icon":{"fontCharacter":"\\e013","fontColor":"#519aba"},"__dockerfile_icon_light":{"fontCharacter":"\\e013","fontColor":"#ae6545"},"__gruntfile.js_icon":{"fontCharacter":"\\e022","fontColor":"#e37933"},"__gruntfile.js_icon_light":{"fontCharacter":"\\e022","fontColor":"#1c86cc"},"__gulpfile.js_icon":{"fontCharacter":"\\e023","fontColor":"#cc3e44"},"__gulpfile.js_icon_light":{"fontCharacter":"\\e023","fontColor":"#33c1bb"},"__ionic.config.json_icon":{"fontCharacter":"\\e02a","fontColor":"#519aba"},"__ionic.config.json_icon_light":{"fontCharacter":"\\e02a","fontColor":"#ae6545"},"__ionic.project_icon":{"fontCharacter":"\\e02a","fontColor":"#519aba"},"__ionic.project_icon_light":{"fontCharacter":"\\e02a","fontColor":"#ae6545"},"__license_icon":{"fontCharacter":"\\e033","fontColor":"#cbcb41"},"__license_icon_light":{"fontCharacter":"\\e033","fontColor":"#3434be"},"__procfile_icon":{"fontCharacter":"\\e063","fontColor":"#a074c4"},"__procfile_icon_light":{"fontCharacter":"\\e063","fontColor":"#5f8b3b"},"__todo_icon":{"fontCharacter":"\\e056","fontColor":"#157efb"},"__todo_icon_light":{"fontCharacter":"\\e056","fontColor":"#00b8df"},"__npm-debug.log_icon":{"fontCharacter":"\\e03b","fontColor":"#cb3837"},"__npm-debug.log_icon_light":{"fontCharacter":"\\e03b","fontColor":"#cb3837"},"__favicon.ico_icon":{"fontCharacter":"\\e018","fontColor":"#cbcb41"},"__favicon.ico_icon_light":{"fontCharacter":"\\e018","fontColor":"#3434be"},"__nginx.conf_icon":{"fontCharacter":"\\e039","fontColor":"#009900"},"__nginx.conf_icon_light":{"fontCharacter":"\\e039","fontColor":"#009900"},"__webpack.config.js_icon":{"fontCharacter":"\\e05e","fontColor":"#6f95db"},"__webpack.config.js_icon_light":{"fontCharacter":"\\e05e","fontColor":"#a4bee7"},"___vimrc_icon":{"fontCharacter":"\\e05b","fontColor":"#019833"},"___vimrc_icon_light":{"fontCharacter":"\\e05b","fontColor":"#019833"},"___viminfo_icon":{"fontCharacter":"\\e05b","fontColor":"#019833"},"___viminfo_icon_light":{"fontCharacter":"\\e05b","fontColor":"#019833"},"__app.json_icon":{"fontCharacter":"\\e06f","fontColor":"#2dc100"},"__app.json_icon_light":{"fontCharacter":"\\e06f","fontColor":"#2dc100"},
-		"__file_icon":{"fontCharacter":"\\e011","fontColor":"#d4d7d6"},"__file_icon_light":{"fontCharacter":"\\e011","fontColor":"#2b2829"},"__folder_icon":{"fontCharacter":"\\e019","fontColor":"#ccc"},"__folder_icon_light":{"fontCharacter":"\\e019"},"__folderExpanded_icon":{"fontCharacter":"\\e01a","fontColor":"#ccc"},"__folderExpanded_icon_light":{"fontCharacter":"\\e01a"},"__.vscode_icon":{"fontCharacter":"\\e066","fontColor":"#0079cc"},"__.vscode_icon_light":{"fontCharacter":"\\e066","fontColor":"#0079cc"},"__typings_icon":{"fontCharacter":"\\e064","fontColor":"#0079cc"},"__typings_icon_light":{"fontCharacter":"\\e064","fontColor":"#0079cc"},"__node_modules_icon":{"fontCharacter":"\\e068","fontColor":"#8cc84b"},"__node_modules_icon_light":{"fontCharacter":"\\e068","fontColor":"#8cc84b"},"__.git_icon":{"fontCharacter":"\\e06b","fontColor":"#de4c36"},"__.git_icon_light":{"fontCharacter":"\\e06b","fontColor":"#de4c36"},"__src_icon":{"fontCharacter":"\\e06c","fontColor":"#cbcb41"},"__src_icon_light":{"fontCharacter":"\\e06c","fontColor":"#3434be"},"__.vscode_open_icon":{"fontCharacter":"\\e067","fontColor":"#0079cc"},"__.vscode_open_icon_light":{"fontCharacter":"\\e067","fontColor":"#0079cc"},"__typings_open_icon":{"fontCharacter":"\\e065","fontColor":"#0079cc"},"__typings_open_icon_light":{"fontCharacter":"\\e065","fontColor":"#0079cc"},"__node_modules_open_icon":{"fontCharacter":"\\e069","fontColor":"#8cc84b"},"__node_modules_open_icon_light":{"fontCharacter":"\\e069","fontColor":"#8cc84b"},"__.git_open_icon":{"fontColor":"#de4c36"},"__.git_open_icon_light":{"fontColor":"#de4c36"},"__src_open_icon":{"fontCharacter":"\\e06d","fontColor":"#cbcb41"},"__src_open_icon_light":{"fontCharacter":"\\e06d","fontColor":"#3434be"}
+		"__mp3_icon": {
+			"fontCharacter": "\\e003",
+			"fontColor": "#a074c4"
+		},
+		"__mp3_icon_light": {
+			"fontCharacter": "\\e003",
+			"fontColor": "#5f8b3b"
+		},
+		"__wav_icon": {
+			"fontCharacter": "\\e003",
+			"fontColor": "#a074c4"
+		},
+		"__wav_icon_light": {
+			"fontCharacter": "\\e003",
+			"fontColor": "#5f8b3b"
+		},
+		"__ogg_icon": {
+			"fontCharacter": "\\e003",
+			"fontColor": "#a074c4"
+		},
+		"__ogg_icon_light": {
+			"fontCharacter": "\\e003",
+			"fontColor": "#5f8b3b"
+		},
+		"__bowerrc_icon": {
+			"fontCharacter": "\\e006",
+			"fontColor": "#e37933"
+		},
+		"__bowerrc_icon_light": {
+			"fontCharacter": "\\e006",
+			"fontColor": "#1c86cc"
+		},
+		"__cs_icon": {
+			"fontCharacter": "\\e00e",
+			"fontColor": "#519aba"
+		},
+		"__cs_icon_light": {
+			"fontCharacter": "\\e00e",
+			"fontColor": "#ae6545"
+		},
+		"__c_icon": {
+			"fontCharacter": "\\e007",
+			"fontColor": "#cbcb41"
+		},
+		"__c_icon_light": {
+			"fontCharacter": "\\e007",
+			"fontColor": "#3434be"
+		},
+		"__h_icon": {
+			"fontCharacter": "\\e007",
+			"fontColor": "#cbcb41"
+		},
+		"__h_icon_light": {
+			"fontCharacter": "\\e007",
+			"fontColor": "#3434be"
+		},
+		"__m_icon": {
+			"fontCharacter": "\\e007",
+			"fontColor": "#cbcb41"
+		},
+		"__m_icon_light": {
+			"fontCharacter": "\\e007",
+			"fontColor": "#3434be"
+		},
+		"__ctp_icon": {
+			"fontCharacter": "\\e008",
+			"fontColor": "#cc3e44"
+		},
+		"__ctp_icon_light": {
+			"fontCharacter": "\\e008",
+			"fontColor": "#33c1bb"
+		},
+		"__cjsx_icon": {
+			"fontCharacter": "\\e046",
+			"fontColor": "#519aba"
+		},
+		"__cjsx_icon_light": {
+			"fontCharacter": "\\e046",
+			"fontColor": "#ae6545"
+		},
+		"__jsx_icon": {
+			"fontCharacter": "\\e046",
+			"fontColor": "#519aba"
+		},
+		"__jsx_icon_light": {
+			"fontCharacter": "\\e046",
+			"fontColor": "#ae6545"
+		},
+		"__tmp_icon": {
+			"fontCharacter": "\\e00a",
+			"fontColor": "#6d8086"
+		},
+		"__tmp_icon_light": {
+			"fontCharacter": "\\e00a",
+			"fontColor": "#927f79"
+		},
+		"__coffee_icon": {
+			"fontColor": "#cbcb41"
+		},
+		"__coffee_icon_light": {
+			"fontColor": "#3434be"
+		},
+		"__cfc_icon": {
+			"fontCharacter": "\\e00b",
+			"fontColor": "#519aba"
+		},
+		"__cfc_icon_light": {
+			"fontCharacter": "\\e00b",
+			"fontColor": "#ae6545"
+		},
+		"__cfm_icon": {
+			"fontCharacter": "\\e00b",
+			"fontColor": "#519aba"
+		},
+		"__cfm_icon_light": {
+			"fontCharacter": "\\e00b",
+			"fontColor": "#ae6545"
+		},
+		"__config_icon": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#6d8086"
+		},
+		"__config_icon_light": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#927f79"
+		},
+		"__cpp_icon": {
+			"fontCharacter": "\\e00d",
+			"fontColor": "#519aba"
+		},
+		"__cpp_icon_light": {
+			"fontCharacter": "\\e00d",
+			"fontColor": "#ae6545"
+		},
+		"__css_icon": {
+			"fontCharacter": "\\e00f",
+			"fontColor": "#519aba"
+		},
+		"__css_icon_light": {
+			"fontCharacter": "\\e00f",
+			"fontColor": "#ae6545"
+		},
+		"__sss_icon": {
+			"fontCharacter": "\\e00f",
+			"fontColor": "#519aba"
+		},
+		"__sss_icon_light": {
+			"fontCharacter": "\\e00f",
+			"fontColor": "#ae6545"
+		},
+		"__csv_icon": {
+			"fontCharacter": "\\e010",
+			"fontColor": "#8dc149"
+		},
+		"__csv_icon_light": {
+			"fontCharacter": "\\e010",
+			"fontColor": "#723eb6"
+		},
+		"__editorconfig_icon": {
+			"fontCharacter": "\\e014",
+			"fontColor": "#519aba"
+		},
+		"__editorconfig_icon_light": {
+			"fontCharacter": "\\e014",
+			"fontColor": "#ae6545"
+		},
+		"__ejs_icon": {
+			"fontCharacter": "\\e015",
+			"fontColor": "#cbcb41"
+		},
+		"__ejs_icon_light": {
+			"fontCharacter": "\\e015",
+			"fontColor": "#3434be"
+		},
+		"__elm_icon": {
+			"fontCharacter": "\\e016",
+			"fontColor": "#519aba"
+		},
+		"__elm_icon_light": {
+			"fontCharacter": "\\e016",
+			"fontColor": "#ae6545"
+		},
+		"__ttf_icon": {
+			"fontCharacter": "\\e01b",
+			"fontColor": "#cc3e44"
+		},
+		"__ttf_icon_light": {
+			"fontCharacter": "\\e01b",
+			"fontColor": "#33c1bb"
+		},
+		"__woff_icon": {
+			"fontCharacter": "\\e01b",
+			"fontColor": "#cc3e44"
+		},
+		"__woff_icon_light": {
+			"fontCharacter": "\\e01b",
+			"fontColor": "#33c1bb"
+		},
+		"__woff2_icon": {
+			"fontCharacter": "\\e01b",
+			"fontColor": "#cc3e44"
+		},
+		"__woff2_icon_light": {
+			"fontCharacter": "\\e01b",
+			"fontColor": "#33c1bb"
+		},
+		"__eot_icon": {
+			"fontCharacter": "\\e01b",
+			"fontColor": "#cc3e44"
+		},
+		"__eot_icon_light": {
+			"fontCharacter": "\\e01b",
+			"fontColor": "#33c1bb"
+		},
+		"__gitkeep_icon": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__gitkeep_icon_light": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__gitconfig_icon": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__gitconfig_icon_light": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__gitattributes_icon": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__gitattributes_icon_light": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__gitmodules_icon": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__gitmodules_icon_light": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__gitignore_icon": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__gitignore_icon_light": {
+			"fontCharacter": "\\e01d",
+			"fontColor": "#de4c36"
+		},
+		"__go_icon": {
+			"fontCharacter": "\\e01f",
+			"fontColor": "#519aba"
+		},
+		"__go_icon_light": {
+			"fontCharacter": "\\e01f",
+			"fontColor": "#ae6545"
+		},
+		"__gradle_icon": {
+			"fontCharacter": "\\e020",
+			"fontColor": "#8dc149"
+		},
+		"__gradle_icon_light": {
+			"fontCharacter": "\\e020",
+			"fontColor": "#723eb6"
+		},
+		"__grails_icon": {
+			"fontCharacter": "\\e021",
+			"fontColor": "#8dc149"
+		},
+		"__grails_icon_light": {
+			"fontCharacter": "\\e021",
+			"fontColor": "#723eb6"
+		},
+		"__groovy_icon": {
+			"fontCharacter": "\\e021",
+			"fontColor": "#8dc149"
+		},
+		"__groovy_icon_light": {
+			"fontCharacter": "\\e021",
+			"fontColor": "#723eb6"
+		},
+		"__hh_icon": {
+			"fontCharacter": "\\e024",
+			"fontColor": "#e37933"
+		},
+		"__hh_icon_light": {
+			"fontCharacter": "\\e024",
+			"fontColor": "#1c86cc"
+		},
+		"__haml_icon": {
+			"fontCharacter": "\\e025",
+			"fontColor": "#cc3e44"
+		},
+		"__haml_icon_light": {
+			"fontCharacter": "\\e025",
+			"fontColor": "#33c1bb"
+		},
+		"__hs_icon": {
+			"fontCharacter": "\\e026",
+			"fontColor": "#a074c4"
+		},
+		"__hs_icon_light": {
+			"fontCharacter": "\\e026",
+			"fontColor": "#5f8b3b"
+		},
+		"__lhs_icon": {
+			"fontCharacter": "\\e026",
+			"fontColor": "#a074c4"
+		},
+		"__lhs_icon_light": {
+			"fontCharacter": "\\e026",
+			"fontColor": "#5f8b3b"
+		},
+		"__htm_icon": {
+			"fontCharacter": "\\e027",
+			"fontColor": "#e37933"
+		},
+		"__htm_icon_light": {
+			"fontCharacter": "\\e027",
+			"fontColor": "#1c86cc"
+		},
+		"__html_icon": {
+			"fontCharacter": "\\e027",
+			"fontColor": "#e37933"
+		},
+		"__html_icon_light": {
+			"fontCharacter": "\\e027",
+			"fontColor": "#1c86cc"
+		},
+		"__shtml_icon": {
+			"fontCharacter": "\\e027",
+			"fontColor": "#e37933"
+		},
+		"__shtml_icon_light": {
+			"fontCharacter": "\\e027",
+			"fontColor": "#1c86cc"
+		},
+		"__dhtml_icon": {
+			"fontCharacter": "\\e027",
+			"fontColor": "#e37933"
+		},
+		"__dhtml_icon_light": {
+			"fontCharacter": "\\e027",
+			"fontColor": "#1c86cc"
+		},
+		"__ai_icon": {
+			"fontCharacter": "\\e001",
+			"fontColor": "#cbcb41"
+		},
+		"__ai_icon_light": {
+			"fontCharacter": "\\e001",
+			"fontColor": "#3434be"
+		},
+		"__png_icon": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#a074c4"
+		},
+		"__png_icon_light": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#5f8b3b"
+		},
+		"__ico_icon": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#a074c4"
+		},
+		"__ico_icon_light": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#5f8b3b"
+		},
+		"__jpg_icon": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#a074c4"
+		},
+		"__jpg_icon_light": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#5f8b3b"
+		},
+		"__bmp_icon": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#a074c4"
+		},
+		"__bmp_icon_light": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#5f8b3b"
+		},
+		"__jpeg_icon": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#a074c4"
+		},
+		"__jpeg_icon_light": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#5f8b3b"
+		},
+		"__gif_icon": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#a074c4"
+		},
+		"__gif_icon_light": {
+			"fontCharacter": "\\e028",
+			"fontColor": "#5f8b3b"
+		},
+		"__jade_icon": {
+			"fontCharacter": "\\e02b",
+			"fontColor": "#cc3e44"
+		},
+		"__jade_icon_light": {
+			"fontCharacter": "\\e02b",
+			"fontColor": "#33c1bb"
+		},
+		"__java_icon": {
+			"fontCharacter": "\\e02c",
+			"fontColor": "#cc3e44"
+		},
+		"__java_icon_light": {
+			"fontCharacter": "\\e02c",
+			"fontColor": "#33c1bb"
+		},
+		"__js_icon": {
+			"fontCharacter": "\\e02d",
+			"fontColor": "#cbcb41"
+		},
+		"__js_icon_light": {
+			"fontCharacter": "\\e02d",
+			"fontColor": "#ae6545"
+		},
+		"__es6_icon": {
+			"fontCharacter": "\\e02d",
+			"fontColor": "#cbcb41"
+		},
+		"__es6_icon_light": {
+			"fontCharacter": "\\e02d",
+			"fontColor": "#ae6545"
+		},
+		"__es7_icon": {
+			"fontCharacter": "\\e02d",
+			"fontColor": "#cbcb41"
+		},
+		"__es7_icon_light": {
+			"fontCharacter": "\\e02d",
+			"fontColor": "#ae6545"
+		},
+		"__json_icon": {
+			"fontCharacter": "\\e02e",
+			"fontColor": "#cbcb41"
+		},
+		"__json_icon_light": {
+			"fontCharacter": "\\e02e",
+			"fontColor": "#3434be"
+		},
+		"__jl_icon": {
+			"fontCharacter": "\\e02f",
+			"fontColor": "#a074c4"
+		},
+		"__jl_icon_light": {
+			"fontCharacter": "\\e02f",
+			"fontColor": "#5f8b3b"
+		},
+		"__less_icon": {
+			"fontCharacter": "\\e032",
+			"fontColor": "#519aba"
+		},
+		"__less_icon_light": {
+			"fontCharacter": "\\e032",
+			"fontColor": "#ae6545"
+		},
+		"__liquid_icon": {
+			"fontCharacter": "\\e034",
+			"fontColor": "#8dc149"
+		},
+		"__liquid_icon_light": {
+			"fontCharacter": "\\e034",
+			"fontColor": "#723eb6"
+		},
+		"__ls_icon": {
+			"fontCharacter": "\\e035",
+			"fontColor": "#519aba"
+		},
+		"__ls_icon_light": {
+			"fontCharacter": "\\e035",
+			"fontColor": "#ae6545"
+		},
+		"__lua_icon": {
+			"fontCharacter": "\\e036",
+			"fontColor": "#519aba"
+		},
+		"__lua_icon_light": {
+			"fontCharacter": "\\e036",
+			"fontColor": "#ae6545"
+		},
+		"__md_icon": {
+			"fontCharacter": "\\e037",
+			"fontColor": "#519aba"
+		},
+		"__md_icon_light": {
+			"fontCharacter": "\\e037",
+			"fontColor": "#ae6545"
+		},
+		"__mustache_icon": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#e37933"
+		},
+		"__mustache_icon_light": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#1c86cc"
+		},
+		"__handlebars_icon": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#e37933"
+		},
+		"__handlebars_icon_light": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#1c86cc"
+		},
+		"__hbs_icon": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#e37933"
+		},
+		"__hbs_icon_light": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#1c86cc"
+		},
+		"__hjs_icon": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#e37933"
+		},
+		"__hjs_icon_light": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#1c86cc"
+		},
+		"__stache_icon": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#e37933"
+		},
+		"__stache_icon_light": {
+			"fontCharacter": "\\e038",
+			"fontColor": "#1c86cc"
+		},
+		"__npmignore_icon": {
+			"fontCharacter": "\\e03b",
+			"fontColor": "#cb3837"
+		},
+		"__npmignore_icon_light": {
+			"fontCharacter": "\\e03b",
+			"fontColor": "#cb3837"
+		},
+		"__ml_icon": {
+			"fontCharacter": "\\e03c",
+			"fontColor": "#e37933"
+		},
+		"__ml_icon_light": {
+			"fontCharacter": "\\e03c",
+			"fontColor": "#1c86cc"
+		},
+		"__mli_icon": {
+			"fontCharacter": "\\e03c",
+			"fontColor": "#e37933"
+		},
+		"__mli_icon_light": {
+			"fontCharacter": "\\e03c",
+			"fontColor": "#1c86cc"
+		},
+		"__cmx_icon": {
+			"fontCharacter": "\\e03c",
+			"fontColor": "#e37933"
+		},
+		"__cmx_icon_light": {
+			"fontCharacter": "\\e03c",
+			"fontColor": "#1c86cc"
+		},
+		"__cmxa_icon": {
+			"fontCharacter": "\\e03c",
+			"fontColor": "#e37933"
+		},
+		"__cmxa_icon_light": {
+			"fontCharacter": "\\e03c",
+			"fontColor": "#1c86cc"
+		},
+		"__pdf_icon": {
+			"fontCharacter": "\\e03d",
+			"fontColor": "#cc3e44"
+		},
+		"__pdf_icon_light": {
+			"fontCharacter": "\\e03d",
+			"fontColor": "#33c1bb"
+		},
+		"__pl_icon": {
+			"fontCharacter": "\\e03e",
+			"fontColor": "#519aba"
+		},
+		"__pl_icon_light": {
+			"fontCharacter": "\\e03e",
+			"fontColor": "#ae6545"
+		},
+		"__psd_icon": {
+			"fontCharacter": "\\e03f",
+			"fontColor": "#519aba"
+		},
+		"__psd_icon_light": {
+			"fontCharacter": "\\e03f",
+			"fontColor": "#ae6545"
+		},
+		"__php_icon": {
+			"fontCharacter": "\\e040",
+			"fontColor": "#a074c4"
+		},
+		"__php_icon_light": {
+			"fontCharacter": "\\e040",
+			"fontColor": "#5f8b3b"
+		},
+		"__php.inc_icon": {
+			"fontCharacter": "\\e040",
+			"fontColor": "#a074c4"
+		},
+		"__php.inc_icon_light": {
+			"fontCharacter": "\\e040",
+			"fontColor": "#5f8b3b"
+		},
+		"__pug_icon": {
+			"fontCharacter": "\\e042",
+			"fontColor": "#519aba"
+		},
+		"__pug_icon_light": {
+			"fontCharacter": "\\e042",
+			"fontColor": "#ae6545"
+		},
+		"__pp_icon": {
+			"fontCharacter": "\\e043",
+			"fontColor": "#a074c4"
+		},
+		"__pp_icon_light": {
+			"fontCharacter": "\\e043",
+			"fontColor": "#5f8b3b"
+		},
+		"__py_icon": {
+			"fontCharacter": "\\e044",
+			"fontColor": "#519aba"
+		},
+		"__py_icon_light": {
+			"fontCharacter": "\\e044",
+			"fontColor": "#ae6545"
+		},
+		"__rb_icon": {
+			"fontCharacter": "\\e047",
+			"fontColor": "#cc3e44"
+		},
+		"__rb_icon_light": {
+			"fontCharacter": "\\e047",
+			"fontColor": "#33c1bb"
+		},
+		"__erb.html_icon": {
+			"fontCharacter": "\\e047",
+			"fontColor": "#cc3e44"
+		},
+		"__erb.html_icon_light": {
+			"fontCharacter": "\\e047",
+			"fontColor": "#33c1bb"
+		},
+		"__html.erb_icon": {
+			"fontCharacter": "\\e047",
+			"fontColor": "#cc3e44"
+		},
+		"__html.erb_icon_light": {
+			"fontCharacter": "\\e047",
+			"fontColor": "#33c1bb"
+		},
+		"__rs_icon": {
+			"fontCharacter": "\\e048",
+			"fontColor": "#6d8086"
+		},
+		"__rs_icon_light": {
+			"fontCharacter": "\\e048",
+			"fontColor": "#927f79"
+		},
+		"__sass_icon": {
+			"fontCharacter": "\\e049",
+			"fontColor": "#f55385"
+		},
+		"__sass_icon_light": {
+			"fontCharacter": "\\e049",
+			"fontColor": "#aac7a"
+		},
+		"__scss_icon": {
+			"fontCharacter": "\\e049",
+			"fontColor": "#f55385"
+		},
+		"__scss_icon_light": {
+			"fontCharacter": "\\e049",
+			"fontColor": "#aac7a"
+		},
+		"__sbt_icon": {
+			"fontCharacter": "\\e04a",
+			"fontColor": "#519aba"
+		},
+		"__sbt_icon_light": {
+			"fontCharacter": "\\e04a",
+			"fontColor": "#ae6545"
+		},
+		"__scala_icon": {
+			"fontCharacter": "\\e04b",
+			"fontColor": "#cc3e44"
+		},
+		"__scala_icon_light": {
+			"fontCharacter": "\\e04b",
+			"fontColor": "#33c1bb"
+		},
+		"__sh_icon": {
+			"fontCharacter": "\\e04d",
+			"fontColor": "#4d5a5e"
+		},
+		"__sh_icon_light": {
+			"fontCharacter": "\\e04d",
+			"fontColor": "#b2a5a1"
+		},
+		"__zsh_icon": {
+			"fontCharacter": "\\e04d",
+			"fontColor": "#4d5a5e"
+		},
+		"__zsh_icon_light": {
+			"fontCharacter": "\\e04d",
+			"fontColor": "#b2a5a1"
+		},
+		"__fish_icon": {
+			"fontCharacter": "\\e04d",
+			"fontColor": "#4d5a5e"
+		},
+		"__fish_icon_light": {
+			"fontCharacter": "\\e04d",
+			"fontColor": "#b2a5a1"
+		},
+		"__slim_icon": {
+			"fontCharacter": "\\e04e",
+			"fontColor": "#e37933"
+		},
+		"__slim_icon_light": {
+			"fontCharacter": "\\e04e",
+			"fontColor": "#1c86cc"
+		},
+		"__smarty_icon": {
+			"fontCharacter": "\\e04f",
+			"fontColor": "#cbcb41"
+		},
+		"__smarty_icon_light": {
+			"fontCharacter": "\\e04f",
+			"fontColor": "#3434be"
+		},
+		"__smarty.tpl_icon": {
+			"fontCharacter": "\\e04f",
+			"fontColor": "#cbcb41"
+		},
+		"__smarty.tpl_icon_light": {
+			"fontCharacter": "\\e04f",
+			"fontColor": "#3434be"
+		},
+		"__styl_icon": {
+			"fontCharacter": "\\e051",
+			"fontColor": "#8dc149"
+		},
+		"__styl_icon_light": {
+			"fontCharacter": "\\e051",
+			"fontColor": "#723eb6"
+		},
+		"__svg_icon": {
+			"fontCharacter": "\\e052",
+			"fontColor": "#a074c4"
+		},
+		"__svg_icon_light": {
+			"fontCharacter": "\\e052",
+			"fontColor": "#5f8b3b"
+		},
+		"__swift_icon": {
+			"fontCharacter": "\\e053",
+			"fontColor": "#e37933"
+		},
+		"__swift_icon_light": {
+			"fontCharacter": "\\e053",
+			"fontColor": "#1c86cc"
+		},
+		"__tf_icon": {
+			"fontCharacter": "\\e054",
+			"fontColor": "#a074c4"
+		},
+		"__tf_icon_light": {
+			"fontCharacter": "\\e054",
+			"fontColor": "#5f8b3b"
+		},
+		"__tf.json_icon": {
+			"fontCharacter": "\\e054",
+			"fontColor": "#a074c4"
+		},
+		"__tf.json_icon_light": {
+			"fontCharacter": "\\e054",
+			"fontColor": "#5f8b3b"
+		},
+		"__tex_icon": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#d4d7d6"
+		},
+		"__tex_icon_light": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#2b2829"
+		},
+		"__sty_icon": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#d4d7d6"
+		},
+		"__sty_icon_light": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#2b2829"
+		},
+		"__cls_icon": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#d4d7d6"
+		},
+		"__cls_icon_light": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#2b2829"
+		},
+		"__dtx_icon": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#d4d7d6"
+		},
+		"__dtx_icon_light": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#2b2829"
+		},
+		"__ins_icon": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#d4d7d6"
+		},
+		"__ins_icon_light": {
+			"fontCharacter": "\\e055",
+			"fontColor": "#2b2829"
+		},
+		"__txt_icon": {
+			"fontCharacter": "\\e011",
+			"fontColor": "#d4d7d6"
+		},
+		"__txt_icon_light": {
+			"fontCharacter": "\\e011",
+			"fontColor": "#2b2829"
+		},
+		"__twig_icon": {
+			"fontCharacter": "\\e057",
+			"fontColor": "#8dc149"
+		},
+		"__twig_icon_light": {
+			"fontCharacter": "\\e057",
+			"fontColor": "#723eb6"
+		},
+		"__ts_icon": {
+			"fontCharacter": "\\e058",
+			"fontColor": "#519aba"
+		},
+		"__ts_icon_light": {
+			"fontCharacter": "\\e058",
+			"fontColor": "#ae6545"
+		},
+		"__tsx_icon": {
+			"fontCharacter": "\\e046",
+			"fontColor": "#519aba"
+		},
+		"__tsx_icon_light": {
+			"fontCharacter": "\\e046",
+			"fontColor": "#ae6545"
+		},
+		"__direnv_icon": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#6d8086"
+		},
+		"__direnv_icon_light": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#927f79"
+		},
+		"__env_icon": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#6d8086"
+		},
+		"__env_icon_light": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#927f79"
+		},
+		"__static_icon": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#6d8086"
+		},
+		"__static_icon_light": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#927f79"
+		},
+		"__slugignore_icon": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#6d8086"
+		},
+		"__slugignore_icon_light": {
+			"fontCharacter": "\\e00c",
+			"fontColor": "#927f79"
+		},
+		"__vala_icon": {
+			"fontCharacter": "\\e059",
+			"fontColor": "#6d8086"
+		},
+		"__vala_icon_light": {
+			"fontCharacter": "\\e059",
+			"fontColor": "#927f79"
+		},
+		"__wmv_icon": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#f55385"
+		},
+		"__wmv_icon_light": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#aac7a"
+		},
+		"__mov_icon": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#f55385"
+		},
+		"__mov_icon_light": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#aac7a"
+		},
+		"__ogv_icon": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#f55385"
+		},
+		"__ogv_icon_light": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#aac7a"
+		},
+		"__webm_icon": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#f55385"
+		},
+		"__webm_icon_light": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#aac7a"
+		},
+		"__avi_icon": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#f55385"
+		},
+		"__avi_icon_light": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#aac7a"
+		},
+		"__mpg_icon": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#f55385"
+		},
+		"__mpg_icon_light": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#aac7a"
+		},
+		"__mp4_icon": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#f55385"
+		},
+		"__mp4_icon_light": {
+			"fontCharacter": "\\e05a",
+			"fontColor": "#aac7a"
+		},
+		"__xml_icon": {
+			"fontCharacter": "\\e060",
+			"fontColor": "#e37933"
+		},
+		"__xml_icon_light": {
+			"fontCharacter": "\\e060",
+			"fontColor": "#1c86cc"
+		},
+		"__yml_icon": {
+			"fontCharacter": "\\e061",
+			"fontColor": "#a074c4"
+		},
+		"__yml_icon_light": {
+			"fontCharacter": "\\e061",
+			"fontColor": "#5f8b3b"
+		},
+		"__vue_icon": {
+			"fontCharacter": "\\e05d",
+			"fontColor": "#41b883"
+		},
+		"__vue_icon_light": {
+			"fontCharacter": "\\e05d",
+			"fontColor": "#41b883"
+		},
+		"__babelrc_icon": {
+			"fontCharacter": "\\e004",
+			"fontColor": "#cbcb41"
+		},
+		"__babelrc_icon_light": {
+			"fontCharacter": "\\e004",
+			"fontColor": "#3434be"
+		},
+		"__eslintrc_icon": {
+			"fontCharacter": "\\e017",
+			"fontColor": "#3a33d1"
+		},
+		"__eslintrc_icon_light": {
+			"fontCharacter": "\\e017",
+			"fontColor": "#6464e2"
+		},
+		"__jshintrc_icon": {
+			"fontCharacter": "\\e06e"
+		},
+		"__jshintrc_icon_light": {
+			"fontCharacter": "\\e06e"
+		},
+		"__xcodeproj_icon": {
+			"fontCharacter": "\\e05f",
+			"fontColor": "#1a8af4"
+		},
+		"__xcodeproj_icon_light": {
+			"fontCharacter": "\\e05f",
+			"fontColor": "#1a8af4"
+		},
+		"__zip_icon": {
+			"fontCharacter": "\\e062",
+			"fontColor": "#157efb"
+		},
+		"__zip_icon_light": {
+			"fontCharacter": "\\e062",
+			"fontColor": "#00b8df"
+		},
+		"__rar_icon": {
+			"fontCharacter": "\\e062",
+			"fontColor": "#157efb"
+		},
+		"__rar_icon_light": {
+			"fontCharacter": "\\e062",
+			"fontColor": "#00b8df"
+		},
+		"__gz_icon": {
+			"fontCharacter": "\\e062",
+			"fontColor": "#157efb"
+		},
+		"__gz_icon_light": {
+			"fontCharacter": "\\e062",
+			"fontColor": "#00b8df"
+		},
+		"__iso_icon": {
+			"fontCharacter": "\\e062",
+			"fontColor": "#157efb"
+		},
+		"__iso_icon_light": {
+			"fontCharacter": "\\e062",
+			"fontColor": "#00b8df"
+		},
+		"__key_icon": {
+			"fontCharacter": "\\e031",
+			"fontColor": "#157efb"
+		},
+		"__key_icon_light": {
+			"fontCharacter": "\\e031",
+			"fontColor": "#157efb"
+		},
+		"__pem_icon": {
+			"fontCharacter": "\\e031",
+			"fontColor": "#157efb"
+		},
+		"__pem_icon_light": {
+			"fontCharacter": "\\e031",
+			"fontColor": "#157efb"
+		},
+		"__fs_icon": {
+			"fontCharacter": "\\e01c",
+			"fontColor": "#378bba"
+		},
+		"__fs_icon_light": {
+			"fontCharacter": "\\e01c",
+			"fontColor": "#30b9db"
+		},
+		"__vimrc_icon": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"__vimrc_icon_light": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"__vim_icon": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"__vim_icon_light": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"__viminfo_icon": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"__viminfo_icon_light": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"__sql_icon": {
+			"fontCharacter": "\\e050",
+			"fontColor": "#00546b"
+		},
+		"__sql_icon_light": {
+			"fontCharacter": "\\e050",
+			"fontColor": "#00546b"
+		},
+		"__htaccess_icon": {
+			"fontCharacter": "\\e002",
+			"fontColor": "#dd1d59"
+		},
+		"__htaccess_icon_light": {
+			"fontCharacter": "\\e002",
+			"fontColor": "#f7d97c"
+		},
+		"__wxml_icon": {
+			"fontCharacter": "\\e071",
+			"fontColor": "#2dc100"
+		},
+		"__wxml_icon_light": {
+			"fontCharacter": "\\e071",
+			"fontColor": "#2dc100"
+		},
+		"__wxss_icon": {
+			"fontCharacter": "\\e070",
+			"fontColor": "#2dc100"
+		},
+		"__wxss_icon_light": {
+			"fontCharacter": "\\e070",
+			"fontColor": "#2dc100"
+		},
+		"__bower.json_icon": {
+			"fontCharacter": "\\e006",
+			"fontColor": "#e37933"
+		},
+		"__bower.json_icon_light": {
+			"fontCharacter": "\\e006",
+			"fontColor": "#1c86cc"
+		},
+		"__karma.conf.js_icon": {
+			"fontCharacter": "\\e030",
+			"fontColor": "#519aba"
+		},
+		"__karma.conf.js_icon_light": {
+			"fontCharacter": "\\e030",
+			"fontColor": "#ae6545"
+		},
+		"__karma.conf.coffee_icon": {
+			"fontCharacter": "\\e030",
+			"fontColor": "#519aba"
+		},
+		"__karma.conf.coffee_icon_light": {
+			"fontCharacter": "\\e030",
+			"fontColor": "#ae6545"
+		},
+		"__dockerfile_icon": {
+			"fontCharacter": "\\e013",
+			"fontColor": "#519aba"
+		},
+		"__dockerfile_icon_light": {
+			"fontCharacter": "\\e013",
+			"fontColor": "#ae6545"
+		},
+		"__gruntfile.js_icon": {
+			"fontCharacter": "\\e022",
+			"fontColor": "#e37933"
+		},
+		"__gruntfile.js_icon_light": {
+			"fontCharacter": "\\e022",
+			"fontColor": "#1c86cc"
+		},
+		"__gulpfile.js_icon": {
+			"fontCharacter": "\\e023",
+			"fontColor": "#cc3e44"
+		},
+		"__gulpfile.js_icon_light": {
+			"fontCharacter": "\\e023",
+			"fontColor": "#33c1bb"
+		},
+		"__ionic.config.json_icon": {
+			"fontCharacter": "\\e02a",
+			"fontColor": "#519aba"
+		},
+		"__ionic.config.json_icon_light": {
+			"fontCharacter": "\\e02a",
+			"fontColor": "#ae6545"
+		},
+		"__ionic.project_icon": {
+			"fontCharacter": "\\e02a",
+			"fontColor": "#519aba"
+		},
+		"__ionic.project_icon_light": {
+			"fontCharacter": "\\e02a",
+			"fontColor": "#ae6545"
+		},
+		"__license_icon": {
+			"fontCharacter": "\\e033",
+			"fontColor": "#cbcb41"
+		},
+		"__license_icon_light": {
+			"fontCharacter": "\\e033",
+			"fontColor": "#3434be"
+		},
+		"__procfile_icon": {
+			"fontCharacter": "\\e063",
+			"fontColor": "#a074c4"
+		},
+		"__procfile_icon_light": {
+			"fontCharacter": "\\e063",
+			"fontColor": "#5f8b3b"
+		},
+		"__todo_icon": {
+			"fontCharacter": "\\e056",
+			"fontColor": "#157efb"
+		},
+		"__todo_icon_light": {
+			"fontCharacter": "\\e056",
+			"fontColor": "#00b8df"
+		},
+		"__npm-debug.log_icon": {
+			"fontCharacter": "\\e03b",
+			"fontColor": "#cb3837"
+		},
+		"__npm-debug.log_icon_light": {
+			"fontCharacter": "\\e03b",
+			"fontColor": "#cb3837"
+		},
+		"__favicon.ico_icon": {
+			"fontCharacter": "\\e018",
+			"fontColor": "#cbcb41"
+		},
+		"__favicon.ico_icon_light": {
+			"fontCharacter": "\\e018",
+			"fontColor": "#3434be"
+		},
+		"__nginx.conf_icon": {
+			"fontCharacter": "\\e039",
+			"fontColor": "#009900"
+		},
+		"__nginx.conf_icon_light": {
+			"fontCharacter": "\\e039",
+			"fontColor": "#009900"
+		},
+		"__webpack.config.js_icon": {
+			"fontCharacter": "\\e05e",
+			"fontColor": "#6f95db"
+		},
+		"__webpack.config.js_icon_light": {
+			"fontCharacter": "\\e05e",
+			"fontColor": "#a4bee7"
+		},
+		"___vimrc_icon": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"___vimrc_icon_light": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"___viminfo_icon": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"___viminfo_icon_light": {
+			"fontCharacter": "\\e05b",
+			"fontColor": "#019833"
+		},
+		"__app.json_icon": {
+			"fontCharacter": "\\e06f",
+			"fontColor": "#2dc100"
+		},
+		"__app.json_icon_light": {
+			"fontCharacter": "\\e06f",
+			"fontColor": "#2dc100"
+		},
+		"__file_icon": {
+			"fontCharacter": "\\e011",
+			"fontColor": "#d4d7d6"
+		},
+		"__file_icon_light": {
+			"fontCharacter": "\\e011",
+			"fontColor": "#2b2829"
+		},
+		"__folder_icon": {
+			"fontCharacter": "\\e019",
+			"fontColor": "#ccc"
+		},
+		"__folder_icon_light": {
+			"fontCharacter": "\\e019"
+		},
+		"__folderExpanded_icon": {
+			"fontCharacter": "\\e01a",
+			"fontColor": "#ccc"
+		},
+		"__folderExpanded_icon_light": {
+			"fontCharacter": "\\e01a"
+		},
+		"__.vscode_icon": {
+			"fontCharacter": "\\e066",
+			"fontColor": "#0079cc"
+		},
+		"__.vscode_icon_light": {
+			"fontCharacter": "\\e066",
+			"fontColor": "#0079cc"
+		},
+		"__typings_icon": {
+			"fontCharacter": "\\e064",
+			"fontColor": "#0079cc"
+		},
+		"__typings_icon_light": {
+			"fontCharacter": "\\e064",
+			"fontColor": "#0079cc"
+		},
+		"__node_modules_icon": {
+			"fontCharacter": "\\e068",
+			"fontColor": "#8cc84b"
+		},
+		"__node_modules_icon_light": {
+			"fontCharacter": "\\e068",
+			"fontColor": "#8cc84b"
+		},
+		"__.git_icon": {
+			"fontCharacter": "\\e06b",
+			"fontColor": "#de4c36"
+		},
+		"__.git_icon_light": {
+			"fontCharacter": "\\e06b",
+			"fontColor": "#de4c36"
+		},
+		"__src_icon": {
+			"fontCharacter": "\\e06c",
+			"fontColor": "#cbcb41"
+		},
+		"__src_icon_light": {
+			"fontCharacter": "\\e06c",
+			"fontColor": "#3434be"
+		},
+		"__.vscode_open_icon": {
+			"fontCharacter": "\\e067",
+			"fontColor": "#0079cc"
+		},
+		"__.vscode_open_icon_light": {
+			"fontCharacter": "\\e067",
+			"fontColor": "#0079cc"
+		},
+		"__typings_open_icon": {
+			"fontCharacter": "\\e065",
+			"fontColor": "#0079cc"
+		},
+		"__typings_open_icon_light": {
+			"fontCharacter": "\\e065",
+			"fontColor": "#0079cc"
+		},
+		"__node_modules_open_icon": {
+			"fontCharacter": "\\e069",
+			"fontColor": "#8cc84b"
+		},
+		"__node_modules_open_icon_light": {
+			"fontCharacter": "\\e069",
+			"fontColor": "#8cc84b"
+		},
+		"__.git_open_icon": {
+			"fontColor": "#de4c36"
+		},
+		"__.git_open_icon_light": {
+			"fontColor": "#de4c36"
+		},
+		"__src_open_icon": {
+			"fontCharacter": "\\e06d",
+			"fontColor": "#cbcb41"
+		},
+		"__src_open_icon_light": {
+			"fontCharacter": "\\e06d",
+			"fontColor": "#3434be"
+		}
 	},
-	"file":"__file_icon","folder":"__folder_icon","folderExpanded":"__folderExpanded_icon","folderNames":{".vscode":"__.vscode_icon","typings":"__typings_icon","node_modules":"__node_modules_icon",".git":"__.git_icon","src":"__src_icon"},"folderNamesExpanded":{".vscode":"__.vscode_open_icon","typings":"__typings_open_icon","node_modules":"__node_modules_open_icon",".git":"__.git_open_icon","src":"__src_open_icon"},
+	"file": "__file_icon",
+	"folder": "__folder_icon",
+	"folderExpanded": "__folderExpanded_icon",
+	"folderNames": {
+		".vscode": "__.vscode_icon",
+		"typings": "__typings_icon",
+		"node_modules": "__node_modules_icon",
+		".git": "__.git_icon",
+		"src": "__src_icon"
+	},
+	"folderNamesExpanded": {
+		".vscode": "__.vscode_open_icon",
+		"typings": "__typings_open_icon",
+		"node_modules": "__node_modules_open_icon",
+		".git": "__.git_open_icon",
+		"src": "__src_open_icon"
+	},
 	"fileExtensions": {
 		// icons by file extension
-        "mp3":"__mp3_icon","wav":"__wav_icon","ogg":"__ogg_icon","bowerrc":"__bowerrc_icon","cs":"__cs_icon","c":"__c_icon","h":"__h_icon","m":"__m_icon","ctp":"__ctp_icon","cjsx":"__cjsx_icon","jsx":"__jsx_icon","tmp":"__tmp_icon","coffee":"__coffee_icon","cfc":"__cfc_icon","cfm":"__cfm_icon","config":"__config_icon","cpp":"__cpp_icon","css":"__css_icon","sss":"__sss_icon","csv":"__csv_icon","editorconfig":"__editorconfig_icon","ejs":"__ejs_icon","elm":"__elm_icon","ttf":"__ttf_icon","woff":"__woff_icon","woff2":"__woff2_icon","eot":"__eot_icon","gitkeep":"__gitkeep_icon","gitconfig":"__gitconfig_icon","gitattributes":"__gitattributes_icon","gitmodules":"__gitmodules_icon","gitignore":"__gitignore_icon","go":"__go_icon","gradle":"__gradle_icon","grails":"__grails_icon","groovy":"__groovy_icon","hh":"__hh_icon","haml":"__haml_icon","hs":"__hs_icon","lhs":"__lhs_icon","htm":"__htm_icon","html":"__html_icon","shtml":"__shtml_icon","dhtml":"__dhtml_icon","ai":"__ai_icon","png":"__png_icon","ico":"__ico_icon","jpg":"__jpg_icon","bmp":"__bmp_icon","jpeg":"__jpeg_icon","gif":"__gif_icon","jade":"__jade_icon","java":"__java_icon","js":"__js_icon","es6":"__es6_icon","es7":"__es7_icon","json":"__json_icon","jl":"__jl_icon","less":"__less_icon","liquid":"__liquid_icon","ls":"__ls_icon","lua":"__lua_icon","md":"__md_icon","mustache":"__mustache_icon","handlebars":"__handlebars_icon","hbs":"__hbs_icon","hjs":"__hjs_icon","stache":"__stache_icon","npmignore":"__npmignore_icon","ml":"__ml_icon","mli":"__mli_icon","cmx":"__cmx_icon","cmxa":"__cmxa_icon","pdf":"__pdf_icon","pl":"__pl_icon","psd":"__psd_icon","php":"__php_icon","php.inc":"__php.inc_icon","pug":"__pug_icon","pp":"__pp_icon","py":"__py_icon","rb":"__rb_icon","erb.html":"__erb.html_icon","html.erb":"__html.erb_icon","rs":"__rs_icon","sass":"__sass_icon","scss":"__scss_icon","sbt":"__sbt_icon","scala":"__scala_icon","sh":"__sh_icon","zsh":"__zsh_icon","fish":"__fish_icon","slim":"__slim_icon","smarty":"__smarty_icon","smarty.tpl":"__smarty.tpl_icon","styl":"__styl_icon","svg":"__svg_icon","swift":"__swift_icon","tf":"__tf_icon","tf.json":"__tf.json_icon","tex":"__tex_icon","sty":"__sty_icon","cls":"__cls_icon","dtx":"__dtx_icon","ins":"__ins_icon","txt":"__txt_icon","twig":"__twig_icon","ts":"__ts_icon","tsx":"__tsx_icon","direnv":"__direnv_icon","env":"__env_icon","static":"__static_icon","slugignore":"__slugignore_icon","vala":"__vala_icon","wmv":"__wmv_icon","mov":"__mov_icon","ogv":"__ogv_icon","webm":"__webm_icon","avi":"__avi_icon","mpg":"__mpg_icon","mp4":"__mp4_icon","xml":"__xml_icon","yml":"__yml_icon","vue":"__vue_icon","babelrc":"__babelrc_icon","eslintrc":"__eslintrc_icon","jshintrc":"__jshintrc_icon","xcodeproj":"__xcodeproj_icon","zip":"__zip_icon","rar":"__rar_icon","gz":"__gz_icon","iso":"__iso_icon","key":"__key_icon","pem":"__pem_icon","fs":"__fs_icon","vimrc":"__vimrc_icon","vim":"__vim_icon","viminfo":"__viminfo_icon","sql":"__sql_icon","htaccess":"__htaccess_icon","wxml":"__wxml_icon","wxss":"__wxss_icon"
+		"mp3": "__mp3_icon",
+		"wav": "__wav_icon",
+		"ogg": "__ogg_icon",
+		"bowerrc": "__bowerrc_icon",
+		"cs": "__cs_icon",
+		"c": "__c_icon",
+		"h": "__h_icon",
+		"m": "__m_icon",
+		"ctp": "__ctp_icon",
+		"cjsx": "__cjsx_icon",
+		"jsx": "__jsx_icon",
+		"tmp": "__tmp_icon",
+		"coffee": "__coffee_icon",
+		"cfc": "__cfc_icon",
+		"cfm": "__cfm_icon",
+		"config": "__config_icon",
+		"cpp": "__cpp_icon",
+		"css": "__css_icon",
+		"sss": "__sss_icon",
+		"csv": "__csv_icon",
+		"editorconfig": "__editorconfig_icon",
+		"ejs": "__ejs_icon",
+		"elm": "__elm_icon",
+		"ttf": "__ttf_icon",
+		"woff": "__woff_icon",
+		"woff2": "__woff2_icon",
+		"eot": "__eot_icon",
+		"gitkeep": "__gitkeep_icon",
+		"gitconfig": "__gitconfig_icon",
+		"gitattributes": "__gitattributes_icon",
+		"gitmodules": "__gitmodules_icon",
+		"gitignore": "__gitignore_icon",
+		"go": "__go_icon",
+		"gradle": "__gradle_icon",
+		"grails": "__grails_icon",
+		"groovy": "__groovy_icon",
+		"hh": "__hh_icon",
+		"haml": "__haml_icon",
+		"hs": "__hs_icon",
+		"lhs": "__lhs_icon",
+		"htm": "__htm_icon",
+		"html": "__html_icon",
+		"shtml": "__shtml_icon",
+		"dhtml": "__dhtml_icon",
+		"ai": "__ai_icon",
+		"png": "__png_icon",
+		"ico": "__ico_icon",
+		"jpg": "__jpg_icon",
+		"bmp": "__bmp_icon",
+		"jpeg": "__jpeg_icon",
+		"gif": "__gif_icon",
+		"jade": "__jade_icon",
+		"java": "__java_icon",
+		"js": "__js_icon",
+		"es6": "__es6_icon",
+		"es7": "__es7_icon",
+		"json": "__json_icon",
+		"jl": "__jl_icon",
+		"less": "__less_icon",
+		"liquid": "__liquid_icon",
+		"ls": "__ls_icon",
+		"lua": "__lua_icon",
+		"md": "__md_icon",
+		"mustache": "__mustache_icon",
+		"handlebars": "__handlebars_icon",
+		"hbs": "__hbs_icon",
+		"hjs": "__hjs_icon",
+		"stache": "__stache_icon",
+		"npmignore": "__npmignore_icon",
+		"ml": "__ml_icon",
+		"mli": "__mli_icon",
+		"cmx": "__cmx_icon",
+		"cmxa": "__cmxa_icon",
+		"pdf": "__pdf_icon",
+		"pl": "__pl_icon",
+		"psd": "__psd_icon",
+		"php": "__php_icon",
+		"php.inc": "__php.inc_icon",
+		"pug": "__pug_icon",
+		"pp": "__pp_icon",
+		"py": "__py_icon",
+		"rb": "__rb_icon",
+		"erb.html": "__erb.html_icon",
+		"html.erb": "__html.erb_icon",
+		"rs": "__rs_icon",
+		"sass": "__sass_icon",
+		"scss": "__scss_icon",
+		"sbt": "__sbt_icon",
+		"scala": "__scala_icon",
+		"sh": "__sh_icon",
+		"zsh": "__zsh_icon",
+		"fish": "__fish_icon",
+		"slim": "__slim_icon",
+		"smarty": "__smarty_icon",
+		"smarty.tpl": "__smarty.tpl_icon",
+		"styl": "__styl_icon",
+		"svg": "__svg_icon",
+		"swift": "__swift_icon",
+		"tf": "__tf_icon",
+		"tf.json": "__tf.json_icon",
+		"tex": "__tex_icon",
+		"sty": "__sty_icon",
+		"cls": "__cls_icon",
+		"dtx": "__dtx_icon",
+		"ins": "__ins_icon",
+		"txt": "__txt_icon",
+		"twig": "__twig_icon",
+		"ts": "__ts_icon",
+		"tsx": "__tsx_icon",
+		"direnv": "__direnv_icon",
+		"env": "__env_icon",
+		"static": "__static_icon",
+		"slugignore": "__slugignore_icon",
+		"vala": "__vala_icon",
+		"wmv": "__wmv_icon",
+		"mov": "__mov_icon",
+		"ogv": "__ogv_icon",
+		"webm": "__webm_icon",
+		"avi": "__avi_icon",
+		"mpg": "__mpg_icon",
+		"mp4": "__mp4_icon",
+		"xml": "__xml_icon",
+		"yml": "__yml_icon",
+		"vue": "__vue_icon",
+		"babelrc": "__babelrc_icon",
+		"eslintrc": "__eslintrc_icon",
+		"jshintrc": "__jshintrc_icon",
+		"xcodeproj": "__xcodeproj_icon",
+		"zip": "__zip_icon",
+		"rar": "__rar_icon",
+		"gz": "__gz_icon",
+		"iso": "__iso_icon",
+		"key": "__key_icon",
+		"pem": "__pem_icon",
+		"fs": "__fs_icon",
+		"vimrc": "__vimrc_icon",
+		"vim": "__vim_icon",
+		"viminfo": "__viminfo_icon",
+		"sql": "__sql_icon",
+		"htaccess": "__htaccess_icon",
+		"wxml": "__wxml_icon",
+		"wxss": "__wxss_icon"
 	},
 	"fileNames": {
 		// icons by file name
-        "bower.json":"__bower.json_icon","karma.conf.js":"__karma.conf.js_icon","karma.conf.coffee":"__karma.conf.coffee_icon","dockerfile":"__dockerfile_icon","gruntfile.js":"__gruntfile.js_icon","gulpfile.js":"__gulpfile.js_icon","ionic.config.json":"__ionic.config.json_icon","ionic.project":"__ionic.project_icon","license":"__license_icon","procfile":"__procfile_icon","todo":"__todo_icon","npm-debug.log":"__npm-debug.log_icon","favicon.ico":"__favicon.ico_icon","nginx.conf":"__nginx.conf_icon","webpack.config.js":"__webpack.config.js_icon","_vimrc":"___vimrc_icon","_viminfo":"___viminfo_icon","app.json":"__app.json_icon"
+		"bower.json": "__bower.json_icon",
+		"karma.conf.js": "__karma.conf.js_icon",
+		"karma.conf.coffee": "__karma.conf.coffee_icon",
+		"dockerfile": "__dockerfile_icon",
+		"gruntfile.js": "__gruntfile.js_icon",
+		"gulpfile.js": "__gulpfile.js_icon",
+		"ionic.config.json": "__ionic.config.json_icon",
+		"ionic.project": "__ionic.project_icon",
+		"license": "__license_icon",
+		"procfile": "__procfile_icon",
+		"todo": "__todo_icon",
+		"npm-debug.log": "__npm-debug.log_icon",
+		"favicon.ico": "__favicon.ico_icon",
+		"nginx.conf": "__nginx.conf_icon",
+		"webpack.config.js": "__webpack.config.js_icon",
+		"_vimrc": "___vimrc_icon",
+		"_viminfo": "___viminfo_icon",
+		"app.json": "__app.json_icon"
 	},
 	"languageIds": {
 		// icons by language id
 	},
 	"light": {
-		"file":"__file_icon_light","folder":"__folder_icon_light","folderExpanded":"__folderExpanded_icon_light","folderNames":{".vscode":"__.vscode_icon_light","typings":"__typings_icon_light","node_modules":"__node_modules_icon_light",".git":"__.git_icon_light","src":"__src_icon_light"},"folderNamesExpanded":{".vscode":"__.vscode_open_icon_light","typings":"__typings_open_icon_light","node_modules":"__node_modules_open_icon_light",".git":"__.git_open_icon_light","src":"__src_open_icon_light"},
+		"file": "__file_icon_light",
+		"folder": "__folder_icon_light",
+		"folderExpanded": "__folderExpanded_icon_light",
+		"folderNames": {
+			".vscode": "__.vscode_icon_light",
+			"typings": "__typings_icon_light",
+			"node_modules": "__node_modules_icon_light",
+			".git": "__.git_icon_light",
+			"src": "__src_icon_light"
+		},
+		"folderNamesExpanded": {
+			".vscode": "__.vscode_open_icon_light",
+			"typings": "__typings_open_icon_light",
+			"node_modules": "__node_modules_open_icon_light",
+			".git": "__.git_open_icon_light",
+			"src": "__src_open_icon_light"
+		},
 		"fileExtensions": {
 			// icons by file extension
-			"mp3":"__mp3_icon_light","wav":"__wav_icon_light","ogg":"__ogg_icon_light","bowerrc":"__bowerrc_icon_light","cs":"__cs_icon_light","c":"__c_icon_light","h":"__h_icon_light","m":"__m_icon_light","ctp":"__ctp_icon_light","cjsx":"__cjsx_icon_light","jsx":"__jsx_icon_light","tmp":"__tmp_icon_light","coffee":"__coffee_icon_light","cfc":"__cfc_icon_light","cfm":"__cfm_icon_light","config":"__config_icon_light","cpp":"__cpp_icon_light","css":"__css_icon_light","sss":"__sss_icon_light","csv":"__csv_icon_light","editorconfig":"__editorconfig_icon_light","ejs":"__ejs_icon_light","elm":"__elm_icon_light","ttf":"__ttf_icon_light","woff":"__woff_icon_light","woff2":"__woff2_icon_light","eot":"__eot_icon_light","gitkeep":"__gitkeep_icon_light","gitconfig":"__gitconfig_icon_light","gitattributes":"__gitattributes_icon_light","gitmodules":"__gitmodules_icon_light","gitignore":"__gitignore_icon_light","go":"__go_icon_light","gradle":"__gradle_icon_light","grails":"__grails_icon_light","groovy":"__groovy_icon_light","hh":"__hh_icon_light","haml":"__haml_icon_light","hs":"__hs_icon_light","lhs":"__lhs_icon_light","htm":"__htm_icon_light","html":"__html_icon_light","shtml":"__shtml_icon_light","dhtml":"__dhtml_icon_light","ai":"__ai_icon_light","png":"__png_icon_light","ico":"__ico_icon_light","jpg":"__jpg_icon_light","bmp":"__bmp_icon_light","jpeg":"__jpeg_icon_light","gif":"__gif_icon_light","jade":"__jade_icon_light","java":"__java_icon_light","js":"__js_icon_light","es6":"__es6_icon_light","es7":"__es7_icon_light","json":"__json_icon_light","jl":"__jl_icon_light","less":"__less_icon_light","liquid":"__liquid_icon_light","ls":"__ls_icon_light","lua":"__lua_icon_light","md":"__md_icon_light","mustache":"__mustache_icon_light","handlebars":"__handlebars_icon_light","hbs":"__hbs_icon_light","hjs":"__hjs_icon_light","stache":"__stache_icon_light","npmignore":"__npmignore_icon_light","ml":"__ml_icon_light","mli":"__mli_icon_light","cmx":"__cmx_icon_light","cmxa":"__cmxa_icon_light","pdf":"__pdf_icon_light","pl":"__pl_icon_light","psd":"__psd_icon_light","php":"__php_icon_light","php.inc":"__php.inc_icon_light","pug":"__pug_icon_light","pp":"__pp_icon_light","py":"__py_icon_light","rb":"__rb_icon_light","erb.html":"__erb.html_icon_light","html.erb":"__html.erb_icon_light","rs":"__rs_icon_light","sass":"__sass_icon_light","scss":"__scss_icon_light","sbt":"__sbt_icon_light","scala":"__scala_icon_light","sh":"__sh_icon_light","zsh":"__zsh_icon_light","fish":"__fish_icon_light","slim":"__slim_icon_light","smarty":"__smarty_icon_light","smarty.tpl":"__smarty.tpl_icon_light","styl":"__styl_icon_light","svg":"__svg_icon_light","swift":"__swift_icon_light","tf":"__tf_icon_light","tf.json":"__tf.json_icon_light","tex":"__tex_icon_light","sty":"__sty_icon_light","cls":"__cls_icon_light","dtx":"__dtx_icon_light","ins":"__ins_icon_light","txt":"__txt_icon_light","twig":"__twig_icon_light","ts":"__ts_icon_light","tsx":"__tsx_icon_light","direnv":"__direnv_icon_light","env":"__env_icon_light","static":"__static_icon_light","slugignore":"__slugignore_icon_light","vala":"__vala_icon_light","wmv":"__wmv_icon_light","mov":"__mov_icon_light","ogv":"__ogv_icon_light","webm":"__webm_icon_light","avi":"__avi_icon_light","mpg":"__mpg_icon_light","mp4":"__mp4_icon_light","xml":"__xml_icon_light","yml":"__yml_icon_light","vue":"__vue_icon_light","babelrc":"__babelrc_icon_light","eslintrc":"__eslintrc_icon_light","jshintrc":"__jshintrc_icon_light","xcodeproj":"__xcodeproj_icon_light","zip":"__zip_icon_light","rar":"__rar_icon_light","gz":"__gz_icon_light","iso":"__iso_icon_light","key":"__key_icon_light","pem":"__pem_icon_light","fs":"__fs_icon_light","vimrc":"__vimrc_icon_light","vim":"__vim_icon_light","viminfo":"__viminfo_icon_light","sql":"__sql_icon_light","htaccess":"__htaccess_icon_light","wxml":"__wxml_icon_light","wxss":"__wxss_icon_light"
+			"mp3": "__mp3_icon_light",
+			"wav": "__wav_icon_light",
+			"ogg": "__ogg_icon_light",
+			"bowerrc": "__bowerrc_icon_light",
+			"cs": "__cs_icon_light",
+			"c": "__c_icon_light",
+			"h": "__h_icon_light",
+			"m": "__m_icon_light",
+			"ctp": "__ctp_icon_light",
+			"cjsx": "__cjsx_icon_light",
+			"jsx": "__jsx_icon_light",
+			"tmp": "__tmp_icon_light",
+			"coffee": "__coffee_icon_light",
+			"cfc": "__cfc_icon_light",
+			"cfm": "__cfm_icon_light",
+			"config": "__config_icon_light",
+			"cpp": "__cpp_icon_light",
+			"css": "__css_icon_light",
+			"sss": "__sss_icon_light",
+			"csv": "__csv_icon_light",
+			"editorconfig": "__editorconfig_icon_light",
+			"ejs": "__ejs_icon_light",
+			"elm": "__elm_icon_light",
+			"ttf": "__ttf_icon_light",
+			"woff": "__woff_icon_light",
+			"woff2": "__woff2_icon_light",
+			"eot": "__eot_icon_light",
+			"gitkeep": "__gitkeep_icon_light",
+			"gitconfig": "__gitconfig_icon_light",
+			"gitattributes": "__gitattributes_icon_light",
+			"gitmodules": "__gitmodules_icon_light",
+			"gitignore": "__gitignore_icon_light",
+			"go": "__go_icon_light",
+			"gradle": "__gradle_icon_light",
+			"grails": "__grails_icon_light",
+			"groovy": "__groovy_icon_light",
+			"hh": "__hh_icon_light",
+			"haml": "__haml_icon_light",
+			"hs": "__hs_icon_light",
+			"lhs": "__lhs_icon_light",
+			"htm": "__htm_icon_light",
+			"html": "__html_icon_light",
+			"shtml": "__shtml_icon_light",
+			"dhtml": "__dhtml_icon_light",
+			"ai": "__ai_icon_light",
+			"png": "__png_icon_light",
+			"ico": "__ico_icon_light",
+			"jpg": "__jpg_icon_light",
+			"bmp": "__bmp_icon_light",
+			"jpeg": "__jpeg_icon_light",
+			"gif": "__gif_icon_light",
+			"jade": "__jade_icon_light",
+			"java": "__java_icon_light",
+			"js": "__js_icon_light",
+			"es6": "__es6_icon_light",
+			"es7": "__es7_icon_light",
+			"json": "__json_icon_light",
+			"jl": "__jl_icon_light",
+			"less": "__less_icon_light",
+			"liquid": "__liquid_icon_light",
+			"ls": "__ls_icon_light",
+			"lua": "__lua_icon_light",
+			"md": "__md_icon_light",
+			"mustache": "__mustache_icon_light",
+			"handlebars": "__handlebars_icon_light",
+			"hbs": "__hbs_icon_light",
+			"hjs": "__hjs_icon_light",
+			"stache": "__stache_icon_light",
+			"npmignore": "__npmignore_icon_light",
+			"ml": "__ml_icon_light",
+			"mli": "__mli_icon_light",
+			"cmx": "__cmx_icon_light",
+			"cmxa": "__cmxa_icon_light",
+			"pdf": "__pdf_icon_light",
+			"pl": "__pl_icon_light",
+			"psd": "__psd_icon_light",
+			"php": "__php_icon_light",
+			"php.inc": "__php.inc_icon_light",
+			"pug": "__pug_icon_light",
+			"pp": "__pp_icon_light",
+			"py": "__py_icon_light",
+			"rb": "__rb_icon_light",
+			"erb.html": "__erb.html_icon_light",
+			"html.erb": "__html.erb_icon_light",
+			"rs": "__rs_icon_light",
+			"sass": "__sass_icon_light",
+			"scss": "__scss_icon_light",
+			"sbt": "__sbt_icon_light",
+			"scala": "__scala_icon_light",
+			"sh": "__sh_icon_light",
+			"zsh": "__zsh_icon_light",
+			"fish": "__fish_icon_light",
+			"slim": "__slim_icon_light",
+			"smarty": "__smarty_icon_light",
+			"smarty.tpl": "__smarty.tpl_icon_light",
+			"styl": "__styl_icon_light",
+			"svg": "__svg_icon_light",
+			"swift": "__swift_icon_light",
+			"tf": "__tf_icon_light",
+			"tf.json": "__tf.json_icon_light",
+			"tex": "__tex_icon_light",
+			"sty": "__sty_icon_light",
+			"cls": "__cls_icon_light",
+			"dtx": "__dtx_icon_light",
+			"ins": "__ins_icon_light",
+			"txt": "__txt_icon_light",
+			"twig": "__twig_icon_light",
+			"ts": "__ts_icon_light",
+			"tsx": "__tsx_icon_light",
+			"direnv": "__direnv_icon_light",
+			"env": "__env_icon_light",
+			"static": "__static_icon_light",
+			"slugignore": "__slugignore_icon_light",
+			"vala": "__vala_icon_light",
+			"wmv": "__wmv_icon_light",
+			"mov": "__mov_icon_light",
+			"ogv": "__ogv_icon_light",
+			"webm": "__webm_icon_light",
+			"avi": "__avi_icon_light",
+			"mpg": "__mpg_icon_light",
+			"mp4": "__mp4_icon_light",
+			"xml": "__xml_icon_light",
+			"yml": "__yml_icon_light",
+			"vue": "__vue_icon_light",
+			"babelrc": "__babelrc_icon_light",
+			"eslintrc": "__eslintrc_icon_light",
+			"jshintrc": "__jshintrc_icon_light",
+			"xcodeproj": "__xcodeproj_icon_light",
+			"zip": "__zip_icon_light",
+			"rar": "__rar_icon_light",
+			"gz": "__gz_icon_light",
+			"iso": "__iso_icon_light",
+			"key": "__key_icon_light",
+			"pem": "__pem_icon_light",
+			"fs": "__fs_icon_light",
+			"vimrc": "__vimrc_icon_light",
+			"vim": "__vim_icon_light",
+			"viminfo": "__viminfo_icon_light",
+			"sql": "__sql_icon_light",
+			"htaccess": "__htaccess_icon_light",
+			"wxml": "__wxml_icon_light",
+			"wxss": "__wxss_icon_light"
 		},
 		"fileNames": {
 			// icons by file name
-			"bower.json":"__bower.json_icon_light","karma.conf.js":"__karma.conf.js_icon_light","karma.conf.coffee":"__karma.conf.coffee_icon_light","dockerfile":"__dockerfile_icon_light","gruntfile.js":"__gruntfile.js_icon_light","gulpfile.js":"__gulpfile.js_icon_light","ionic.config.json":"__ionic.config.json_icon_light","ionic.project":"__ionic.project_icon_light","license":"__license_icon_light","procfile":"__procfile_icon_light","todo":"__todo_icon_light","npm-debug.log":"__npm-debug.log_icon_light","favicon.ico":"__favicon.ico_icon_light","nginx.conf":"__nginx.conf_icon_light","webpack.config.js":"__webpack.config.js_icon_light","_vimrc":"___vimrc_icon_light","_viminfo":"___viminfo_icon_light","app.json":"__app.json_icon_light"
+			"bower.json": "__bower.json_icon_light",
+			"karma.conf.js": "__karma.conf.js_icon_light",
+			"karma.conf.coffee": "__karma.conf.coffee_icon_light",
+			"dockerfile": "__dockerfile_icon_light",
+			"gruntfile.js": "__gruntfile.js_icon_light",
+			"gulpfile.js": "__gulpfile.js_icon_light",
+			"ionic.config.json": "__ionic.config.json_icon_light",
+			"ionic.project": "__ionic.project_icon_light",
+			"license": "__license_icon_light",
+			"procfile": "__procfile_icon_light",
+			"todo": "__todo_icon_light",
+			"npm-debug.log": "__npm-debug.log_icon_light",
+			"favicon.ico": "__favicon.ico_icon_light",
+			"nginx.conf": "__nginx.conf_icon_light",
+			"webpack.config.js": "__webpack.config.js_icon_light",
+			"_vimrc": "___vimrc_icon_light",
+			"_viminfo": "___viminfo_icon_light",
+			"app.json": "__app.json_icon_light"
 		},
 		"languageIds": {
 			// icons by language id
