@@ -1,36 +1,42 @@
 {
-	"name": "seti-icons",
-	"displayName": "seti-icons",
-	"description": "Icons for VS Code",
-	"version": "0.1.0",
-	"publisher": "qinjia",
-	"icon": "icon.png",
-	"engines": {
-		"vscode": "^1.5.0"
-	},
-	"scripts": {
-		"make": "node ./icon.js"
-	},
-	"categories": [
-		"Themes"
-	],
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/hellopao/vscode-seti-icons.git"
-	},
-	"homepage": "https://github.com/hellopao/vscode-seti-icons",
-	"bugs": {
-		"url": "https://github.com/hellopao/vscode-seti-icons/issues"
-	},
-	"contributes": {
-		"themes": [],
-		"iconThemes": [
-			{
-				"id": "seti",
-				"label": "Seti UI",
-				"path": "./seti.json"
-			}
-		]
-	},
-	"__metadata": null
+  "name": "seti-icons",
+  "displayName": "seti-icons",
+  "description": "Icons for VS Code",
+  "version": "0.1.1",
+  "publisher": "qinjia",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.5.0"
+  },
+  "scripts": {
+    "make": "node ./icon.js"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hellopao/vscode-seti-icons.git"
+  },
+  "homepage": "https://github.com/hellopao/vscode-seti-icons",
+  "bugs": {
+    "url": "https://github.com/hellopao/vscode-seti-icons/issues"
+  },
+  "contributes": {
+    "themes": [],
+    "iconThemes": [
+      {
+        "id": "seti",
+        "label": "Seti UI",
+        "path": "./seti.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "85e57fc6-8e21-4402-8e66-af4155fbb5d2",
+    "publisherId": "fc5e9493-6ca3-452b-9e0a-8a9be2be7798",
+    "publisherDisplayName": "qinjia"
+  },
+  "devDependencies": {
+  }
 }

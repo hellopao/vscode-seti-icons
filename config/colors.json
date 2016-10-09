@@ -236,8 +236,8 @@
         "dark": "#8cc84b"
     },
     "npm": {
-        "light": "#beaca4",
-        "dark": "#41535b"
+        "light": "#cb3837",
+        "dark": "#cb3837"
     },
     "ocaml": {
         "light": "#1c86cc",
@@ -340,8 +340,8 @@
         "dark": "#d4d7d6"
     },
     "todo": {
-        "light": "",
-        "dark": ""
+        "light": "#00b8df",
+        "dark": "#157efb"
     },
     "twig": {
         "light": "#723eb6",
@@ -430,5 +430,17 @@
     "src_folder_open": {
         "light": "#3434be",
         "dark": "#cbcb41"
+    },
+    "wxss": {
+        "light": "#2dc100",
+        "dark": "#2dc100"
+    },
+    "wxml": {
+        "light": "#2dc100",
+        "dark": "#2dc100"
+    },
+    "wechat": {
+        "light": "#2dc100",
+        "dark": "#2dc100"
     }
 }

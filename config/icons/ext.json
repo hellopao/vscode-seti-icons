@@ -125,6 +125,7 @@
     "vue": "vue",
     "babelrc": "babel",
     "eslintrc": "eslint",
+    "jshintrc": "jshint",
     "xcodeproj": "xcode",
     "zip": "zip",
     "rar": "zip",
@@ -137,5 +138,7 @@
     "vim": "vim",
     "viminfo": "vim",
     "sql": "sql",
-    "htaccess": "apache"
+    "htaccess": "apache",
+    "wxml": "wxml",
+    "wxss": "wxss"
 }

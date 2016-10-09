@@ -15,5 +15,6 @@
     "nginx.conf": "nginx",
     "webpack.config.js": "webpack",
     "_vimrc": "vim",
-    "_viminfo": "vim"
+    "_viminfo": "vim",
+    "app.json": "wechat"
 }

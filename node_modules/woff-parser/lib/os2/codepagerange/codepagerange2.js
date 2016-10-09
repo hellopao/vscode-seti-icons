@@ -1,0 +1,24 @@
+module.exports = function (codepagerange) {
+	var ranges = [];
+	if (codepagerange & 0x00000001) ranges.push("Latin 1");
+	if (codepagerange & 0x00000002) ranges.push("Latin 2: Eastern Europe");
+	if (codepagerange & 0x00000004) ranges.push("Cyrillic");
+	if (codepagerange & 0x00000008) ranges.push("Greek");
+	if (codepagerange & 0x00000010) ranges.push("Turkish");
+	if (codepagerange & 0x00000020) ranges.push("Hebrew");
+	if (codepagerange & 0x00000040) ranges.push("Arabic");
+	if (codepagerange & 0x00000080) ranges.push("Windows Baltic");
+	if (codepagerange & 0x00000100) ranges.push("Vietnamese");
+	if (codepagerange & 0x00007F00) ranges.push("Reserved for Alternate ANSI");
+	if (codepagerange & 0x00008000) ranges.push("Thai");
+	if (codepagerange & 0x00010000) ranges.push("JIS/Japan");
+	if (codepagerange & 0x00020000) ranges.push("Chinese: Simplified chars--PRC and Singapore");
+	if (codepagerange & 0x00040000) ranges.push("Korean Wansung");
+	if (codepagerange & 0x00080000) ranges.push("Chinese: Traditional chars--Taiwan and Hong Kong");
+	if (codepagerange & 0x00100000) ranges.push("Korean Johab");
+	if (codepagerange & 0x0FE00000) ranges.push("Reserved for Alternate ANSI & OEM");
+	if (codepagerange & 0x10000000) ranges.push("Macintosh Character Set (US Roman)");
+	if (codepagerange & 0x20000000) ranges.push("OEM Character Set");
+	if (codepagerange & 0x40000000) ranges.push("Symbol Character Set");
+	return ranges;
+};
