@@ -2,14 +2,14 @@
   "name": "seti-icons",
   "displayName": "seti-icons",
   "description": "Icons for VS Code",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "publisher": "qinjia",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.5.0"
   },
   "scripts": {
-    "make": "node ./icon.js"
+    "make": "node ./lib/icon.js"
   },
   "categories": [
     "Themes"

@@ -14,6 +14,10 @@ Icons for VS Code (version 1.5.0+)
 
 ## change log
 
+- v0.1.3
+
+ 1. fix gulpfile.ts icon to show gulp logo
+
 - v0.1.2
 
  1. add icons for files(yarn.lock, .flowconfig)
