@@ -14,6 +14,10 @@ Icons for VS Code (version 1.5.0+)
 
 ## change log
 
+- v0.1.2
+
+ 1. add icons for files(yarn.lock, .flowconfig)
+
 - v0.1.1
 
  1. add icons for files(.wxml, .wxss)

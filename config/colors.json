@@ -12,8 +12,8 @@
         "dark": "#cbcb41"
     },
     "bat": {
-        "light": "#53b6e4",
-        "dark": "#1a293b"
+        "light": "#2165b6",
+        "dark": "#2165b6"
     },
     "bower": {
         "light": "#1c86cc",
@@ -279,6 +279,10 @@
         "light": "#ae6545",
         "dark": "#519aba"
     },
+    "vb": {
+        "light": "#33c1bb",
+        "dark": "#cc3e44"
+    },
     "ruby": {
         "light": "#33c1bb",
         "dark": "#cc3e44"
@@ -442,5 +446,29 @@
     "wechat": {
         "light": "#2dc100",
         "dark": "#2dc100"
+    },
+    "clojure": {
+        "light": "#95dc51",
+        "dark": "#68b13b"
+    },
+    "r": {
+        "light": "#2165b6",
+        "dark": "#2165b6"
+    },
+    "jshint": {
+        "light": "#626361",
+        "dark": "#626361"
+    },
+    "yarn": {
+        "light": "#3b8ebc",
+        "dark": "#3b8ebc"
+    },
+    "powershell": {
+        "light": "#4071c6",
+        "dark": "#4071c6"
+    },
+    "flow": {
+        "light": "#ff9f14",
+        "dark": "#ffdc67"
     }
 }

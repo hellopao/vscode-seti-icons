@@ -1,0 +1,9 @@
+{
+    "powershell": "powershell",
+    "dockerfile": "docker",
+    "git-commit": "git_commit",
+    "perl6": "perl",
+    "yaml": "yml",
+    "xml": "xml",
+    "vb": "vb"
+}

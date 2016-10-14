@@ -10,13 +10,14 @@
 			],
 			"weight": "normal",
 			"style": "normal",
-			"size": "150%"
+			"size": "160%"
 		}
 	],
 	"iconDefinitions": {
         __ext_icon_def_placeholder,
         __filename_icon_def_placeholder,
-		__common_icon_def_placeholder
+		__common_icon_def_placeholder,
+		__lang_icon_def_placeholder
 	},
 	__common_icon_ref_placeholder,
 	"fileExtensions": {
@@ -29,6 +30,7 @@
 	},
 	"languageIds": {
 		// icons by language id
+		__lang_icon_ref_placeholder
 	},
 	"light": {
 		__common_light_icon_ref_placeholder,
@@ -42,6 +44,7 @@
 		},
 		"languageIds": {
 			// icons by language id
+			__lang_light_icon_ref_placeholder
 		}
 	},
 	"highContrast": {

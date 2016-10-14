@@ -2,7 +2,6 @@
     "bower.json": "bower",
     "karma.conf.js": "karma",
     "karma.conf.coffee": "karma",
-    "dockerfile": "docker",
     "gruntfile.js": "grunt",
     "gulpfile.js": "gulp",
     "ionic.config.json": "ionic",
@@ -16,5 +15,6 @@
     "webpack.config.js": "webpack",
     "_vimrc": "vim",
     "_viminfo": "vim",
-    "app.json": "wechat"
+    "app.json": "wechat",
+    "yarn.lock": "yarn"
 }

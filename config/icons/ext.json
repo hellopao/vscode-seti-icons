@@ -89,6 +89,7 @@
     "sbt": "sbt",
     "scala": "scala",
     "sh": "shell",
+    "cmd": "shell",
     "zsh": "shell",
     "fish": "shell",
     "slim": "slim",
@@ -138,7 +139,14 @@
     "vim": "vim",
     "viminfo": "vim",
     "sql": "sql",
+    "bat": "bat",
     "htaccess": "apache",
     "wxml": "wxml",
-    "wxss": "wxss"
+    "wxss": "wxss",
+    "ini": "config",
+    "clj": "clojure",
+    "r": "r",
+    "lock": "lock",
+    "asp": "asp",
+    "flowconfig": "flow"
 }
