@@ -14,6 +14,7 @@
     "favicon.ico": "favicon",
     "nginx.conf": "nginx",
     "webpack.config.js": "webpack",
+    "webpack.config.babel.js": "webpack",
     "_vimrc": "vim",
     "_viminfo": "vim"
 }
