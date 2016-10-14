@@ -4,6 +4,7 @@
     "karma.conf.coffee": "karma",
     "gruntfile.js": "grunt",
     "gulpfile.js": "gulp",
+    "gulpfile.ts": "gulp",
     "ionic.config.json": "ionic",
     "ionic.project": "ionic",
     "license": "license",
