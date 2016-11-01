@@ -14,6 +14,10 @@ Icons for VS Code (version 1.5.0+)
 
 ## change log
 
+- v0.1.3
+
+ 1. add icons for files(gulpfile.ts, webpack.config.babel.js)
+
 - v0.1.2
 
  1. add icons for files(yarn.lock, .flowconfig)
